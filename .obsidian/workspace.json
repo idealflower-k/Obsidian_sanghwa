@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "42ad785f67cb1298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2023-10-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-10-13.md",
+                "file": "Webserv/Webserv 요구 사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-10-13.md",
+                "file": "Webserv/Webserv 요구 사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-10-13.md"
+                "file": "Webserv/Webserv 요구 사항.md"
               }
             }
           },
@@ -151,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,14 +156,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "42ad785f67cb1298",
+  "active": "cff02704956c381f",
   "lastOpenFiles": [
-    "1. Daily/2023-09-30.md",
-    "1. Daily/2023-10-13.md",
+    "Webserv/Webserv 요구 사항.md",
     "1. Daily/2023-09-23.md",
+    "무제 파일.md",
+    "2. Weekly/무제 파일.md",
+    "2. Weekly/2023-W37.md",
+    "1. Daily/2023-10-26.md",
+    "1. Daily/2023-10-13.md",
+    "1. Daily/2023-09-30.md",
     "1. Daily/2023-09-14.md",
     "3. Monthly/무제 파일.md",
-    "Webserv/Webserv 요구 사항.md",
     "Webserv/subject/subject_정리.md",
     "Webserv/subject/webserv_subject.pdf",
     "Webserv/subject/webserv_subject_ko.pdf",
@@ -184,7 +176,6 @@
     "image file/transaction.jpg",
     "image file/URI.jpg",
     "image file",
-    "2. Weekly/2023-W37.md",
     "3. Monthly",
     "4. Yearly",
     "2. Weekly",
