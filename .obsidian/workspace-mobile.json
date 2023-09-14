@@ -1,19 +1,21 @@
 {
   "main": {
-    "id": "21518b8ec6733ebf",
+    "id": "b8f8965a075f3c60",
     "type": "split",
     "children": [
       {
-        "id": "83f2400b3ccb2bf5",
+        "id": "456e8caaa92a81b5",
         "type": "tabs",
         "children": [
           {
-            "id": "294f3608748d862f",
+            "id": "492da9b2a6f06dc0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Webserv/subject/webserv_subject_ko.pdf"
+                "file": "1. Daily/2023-09-14.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "236476de27fe546f",
+    "id": "195655089dd2c9c8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9d5a23efb7f6bd41",
+        "id": "7cf4bf19a97984c8",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -37,7 +39,7 @@
         }
       },
       {
-        "id": "853d72e6827e83a4",
+        "id": "83337c21eb220808",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -52,7 +54,7 @@
         }
       },
       {
-        "id": "75f7077759a55f24",
+        "id": "c342f5181ee66066",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -63,7 +65,7 @@
         }
       },
       {
-        "id": "c3c9ebbedcb97157",
+        "id": "7b9a6fda8986af0b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -74,15 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "2c17106748085236",
+    "id": "18c941cff8cbbc3e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f1669a6806623fad",
+        "id": "865d92fef42042fb",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "1. Daily/2023-09-14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,26 +97,29 @@
         }
       },
       {
-        "id": "da9a8ae2f7e5af69",
+        "id": "ddfedf457cc7ebf0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "1. Daily/2023-09-14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "4290f5ff791284d4",
+        "id": "117eb727a52d331a",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "1. Daily/2023-09-14.md"
+          }
         }
       },
       {
-        "id": "7169eeb6086e3535",
+        "id": "e05bb60eaa57b0fb",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -125,36 +131,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d5a23efb7f6bd41",
+  "active": "492da9b2a6f06dc0",
   "lastOpenFiles": [
-    "Webserv/Webserv 요구 사항.md",
-    "Webserv 요구 사항.md",
-    "무제 파일.md",
-    "Webserv/subject/subject_정리.md",
-    "Webserv/subject_정리.md",
-    "Webserv/subject/webserv_subject_ko.pdf",
-    "Webserv/요구 사항.md",
-    "HTTP/HTTP (HyperText Transfer Protocol).md",
-    "요구 사항.md",
-    "요구사항.md",
-    "Webserv/webserv_subject_ko.pdf",
-    "Webserv/subject/webserv_subject.pdf",
-    "Webserv/subject",
-    "무제 폴더",
-    "Webserv/webserv_subject (1).pdf",
-    "image file/transaction.jpg",
-    "Webserv/webserv_subject.pdf",
+    "1. Daily/2023-09-14.md",
+    "1. Daily",
     "image file/URI.jpg",
+    "image file/transaction.jpg",
+    "image file",
+    "Webserv/subject/webserv_subject_ko.pdf",
+    "Webserv/subject/webserv_subject.pdf",
+    "Webserv/subject/subject_정리.md",
+    "Webserv/Webserv 요구 사항.md",
+    "Webserv/subject",
+    "Webserv",
+    "HTTP/HTTP (HyperText Transfer Protocol).md",
+    "HTTP",
     "2. Weekly/2023-W37.md",
-    "1. Daily/2023-09-14.md"
+    "2. Weekly",
+    "obsdian_sanghwa/Webserv/subject/webserv_subject_ko.pdf",
+    "obsdian_sanghwa/Webserv/subject/webserv_subject.pdf",
+    "obsdian_sanghwa/Webserv/subject/subject_정리.md",
+    "obsdian_sanghwa/1. Daily/2023-09-14.md",
+    "obsdian_sanghwa/image file/URI.jpg",
+    "obsdian_sanghwa/image file/transaction.jpg",
+    "obsdian_sanghwa/Webserv/Webserv 요구 사항.md",
+    "obsdian_sanghwa/HTTP/HTTP (HyperText Transfer Protocol).md",
+    "obsdian_sanghwa/2. Weekly/2023-W37.md"
   ]
 }
