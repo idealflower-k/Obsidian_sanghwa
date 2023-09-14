@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 13,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabCalendarDays",
+      "FabDailymotion"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "2. Weekly": "FabCalendarDays",
+  "1. Daily": "FabCalendarDays",
+  "3. Monthly": "FabCalendarDays",
+  "4. Yearly": "FabCalendarDays"
+}
