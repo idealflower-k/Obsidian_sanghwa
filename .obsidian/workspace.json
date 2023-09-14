@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webserv/subject/subject_정리.md",
+                "file": "Webserv/Webserv 요구 사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webserv/subject/subject_정리.md",
+                "file": "Webserv/Webserv 요구 사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webserv/subject/subject_정리.md",
+                "file": "Webserv/Webserv 요구 사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webserv/subject/subject_정리.md"
+                "file": "Webserv/Webserv 요구 사항.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "cff02704956c381f",
   "lastOpenFiles": [
-    "Webserv/Webserv 요구 사항.md",
-    "Webserv/subject/subject_정리.md",
-    "Webserv/subject/webserv_subject.pdf",
     "1. Daily/2023-09-14.md",
+    "Webserv/subject/subject_정리.md",
+    "Webserv/Webserv 요구 사항.md",
+    "Webserv/subject/webserv_subject.pdf",
     "Webserv/subject/webserv_subject_ko.pdf",
     "Webserv/subject",
     "HTTP/HTTP (HyperText Transfer Protocol).md",
