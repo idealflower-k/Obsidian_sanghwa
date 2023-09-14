@@ -41,7 +41,8 @@
       "3. Monthly",
       "4. Yearly",
       "Webserv",
-      "image file"
+      "image file",
+      "Webserv/subject"
     ],
     "Webserv": [
       "Webserv/subject",

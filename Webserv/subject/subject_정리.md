@@ -1,3 +1,4 @@
+#webserv 
 # webserv
 [[webserv_subject.pdf|webserv.pdf]]
 # 요구 사항 명세
@@ -16,7 +17,7 @@
 | External functts. | Everything in C++ 98.<br>execve, dup, dup2, pipe, strerror, gai_strerror, errno, dup, dup2, fork, socketpair, htons, htonl, ntohs, ntohl, select, poll, epoll (epoll_create, epoll_ctl, epoll_wait), kqueue (kqueue, kevent), socket, accept, listen, send, recv, chdir bind, connect, getaddrinfo, freeaddrinfo, setsockopt, getsockname, getprotobyname, fcntl, close, read, write, waitpid, kill, signal, access, stat, opendir, readdir and closedir.|
 | Libft authorized | n/a |
 | Description | A HTTP server in c++ 98 |
-- C++ 98로 HTTP 서버를 작성해야 한다.
+- C++ 98로 [[HTTP (HyperText Transfer Protocol)|HTTP]] 서버를 작성해야 한다.
 - ./webserv [configuration file]
 
 >  RFC를 읽고 텔넷 및 NGINX를 사용하여 몇 가지 테스트를 수행한 후 수행하시오.

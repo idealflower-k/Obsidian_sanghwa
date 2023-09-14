@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "48358ca175b25c1e",
+        "id": "bee88d38411905e8",
         "type": "tabs",
         "children": [
           {
-            "id": "dc0a22192398f8d4",
+            "id": "11529e355d21fcea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Webserv/subject/subject_정리.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Webserv/subject/subject_정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Webserv/subject/subject_정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Webserv/subject/subject_정리.md"
+              }
             }
           },
           {
@@ -157,20 +165,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dc0a22192398f8d4",
+  "active": "11529e355d21fcea",
   "lastOpenFiles": [
-    "Webserv/subject/subject.md",
-    "image file/Webserv 요구 사항.md",
-    "Webserv/Webserv 요구 사항2.md",
     "Webserv/subject/webserv_subject.pdf",
     "Webserv/subject/subject_정리.md",
+    "image file/Specific Requirement.png",
+    "HTTP/HTTP (HyperText Transfer Protocol).md",
+    "Webserv/Webserv 요구 사항2.md",
+    "Webserv/subject/subject.md",
+    "image file/Webserv 요구 사항.md",
     "Webserv/요구 사항 2.md",
     "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
     "image file/Requirement Specification 1.png",
     "image file/Requirement Specification2.png",
     "image file/transaction.jpg",
     "image file/URI.jpg",
-    "image file/Specific Requirement.png",
     "image file/Requirement Specification.png",
     "image file/image file.md",
     "CreateDocument/.md",
@@ -179,7 +188,6 @@
     "무제 파일.md",
     "Webserv/context.mdb",
     "HTTP/HTTP.md",
-    "HTTP/HTTP (HyperText Transfer Protocol).md",
     "4. Yearly/4. Yearly.md",
     "3. Monthly/3. Monthly.md",
     "2. Weekly/2. Weekly.md",
