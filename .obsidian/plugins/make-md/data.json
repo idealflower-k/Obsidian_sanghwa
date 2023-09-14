@@ -48,13 +48,18 @@
       "Webserv",
       "Webserv",
       "Webserv",
+      "Webserv",
+      "Webserv",
+      "Webserv",
+      "Webserv",
       "Webserv"
     ],
     "WEB": []
   },
   "expandedSpaces": [
     "/",
-    null
+    null,
+    "Webserv"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -88,7 +93,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694694909470,
+  "spacesAutoBackupLast": 1694695153978,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
