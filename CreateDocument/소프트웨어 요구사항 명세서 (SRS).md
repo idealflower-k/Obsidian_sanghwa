@@ -14,4 +14,15 @@
 2. Overall description
 	2.1 Product perspective
 	2.2 Product functions
-	3
+	2.3 User charactteristics
+	2.4 Constraints
+	2.5 Assumptions and dependencies
+3. Specific requirements
+
+1. Introduction
+	- 문서의 목적과 범위, 용어 정의 (정의, 두문자어, 약어), 참조 등 문서의 전반적인 개요에 대한 내용이 작성된다.
+2. Overall Description
+	- 제품 관점에서의 소프트웨어 동작이나 소프트웨어의 주 기능, 경험이나 전문지식을 포함한 소프트웨어 사용자의 일반적인 특성, 소프트웨어의 제약사항과 가정 및 의존성 등에 대한 내용이 기술된다.
+	- 3. Specific requirement의 이해를 돕기 위한 배경과 가트은 애용이 포함된다.
+3. Specific Requirement
+	- 소프트웨어의 모든 세부
