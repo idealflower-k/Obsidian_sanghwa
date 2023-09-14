@@ -11,9 +11,11 @@
             "id": "dc0a22192398f8d4",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Webserv"
+                "file": "Webserv/Webserv 요구 사항.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -110,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Webserv/Webserv 요구 사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Webserv/Webserv 요구 사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Webserv/Webserv 요구 사항.md"
+              }
             }
           },
           {
@@ -181,6 +187,7 @@
   "lastOpenFiles": [
     "Webserv/subject/subject_정리.md",
     "Webserv/Webserv 요구 사항.md",
+    "image file/Webserv 요구 사항.md",
     "Webserv/요구 사항 2.md",
     "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
     "image file/Requirement Specification 1.png",

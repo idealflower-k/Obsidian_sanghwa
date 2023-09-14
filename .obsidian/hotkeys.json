@@ -6,13 +6,5 @@
       ],
       "key": "B"
     }
-  ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Backspace"
-    }
   ]
 }

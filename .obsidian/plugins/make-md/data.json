@@ -52,7 +52,8 @@
       "Webserv",
       "Webserv",
       "Webserv",
-      "Webserv"
+      "Webserv",
+      "Webserv/subject"
     ],
     "WEB": []
   },
@@ -93,7 +94,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694695153978,
+  "spacesAutoBackupLast": 1694695315507,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
