@@ -18,15 +18,15 @@
   "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
-  "spacesCompactMode": false,
+  "spacesCompactMode": true,
   "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
   "spacesPerformance": false,
   "collapsedTags": [],
   "enableFolderNote": true,
-  "folderIndentationLines": true,
+  "folderIndentationLines": false,
   "revealActiveFile": false,
-  "spacesStickers": true,
+  "spacesStickers": false,
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
@@ -43,16 +43,18 @@
     ],
     "Webserv": [
       "Webserv/subject",
-      "Webserv/subject"
+      "Webserv/subject",
+      "Webserv",
+      "Webserv",
+      "Webserv",
+      "Webserv"
     ],
-    "WEB": [
-      "HTTP"
-    ]
+    "WEB": []
   },
   "expandedSpaces": [
     "/",
     null,
-    "WEB"
+    "Webserv"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -86,7 +88,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694690541622,
+  "spacesAutoBackupLast": 1694691190874,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

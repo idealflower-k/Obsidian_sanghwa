@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f919
+---
 #HTTP #WEB
 # HTTP (HyperText Transfer Protocol)
 
