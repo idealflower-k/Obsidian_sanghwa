@@ -3,22 +3,36 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#WEB  ",
+      "query": "tag:#WEB",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 262363
       }
     },
     {
-      "query": "tag:#HTTP  ",
+      "query": "path:Webserv  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"1. Daily\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
+    },
+    {
+      "query": "path:\"2. Weekly\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
       }
     }
   ],
@@ -33,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 2.155308169906747,
-  "close": false
+  "close": true
 }

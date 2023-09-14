@@ -11,8 +11,12 @@
             "id": "cff02704956c381f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Webserv/Webserv 요구 사항.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Webserv/Webserv 요구 사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Webserv/Webserv 요구 사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Webserv/Webserv 요구 사항.md"
+              }
             }
           },
           {
@@ -150,9 +159,9 @@
   },
   "active": "cff02704956c381f",
   "lastOpenFiles": [
+    "Webserv/Webserv 요구 사항.md",
     "HTTP/HTTP (HyperText Transfer Protocol).md",
     "Webserv/subject/subject_정리.md",
-    "Webserv/Webserv 요구 사항.md",
     "Webserv/subject/webserv_subject_ko.pdf",
     "Webserv/subject/webserv_subject.pdf",
     "3. Monthly/무제 파일.md",
