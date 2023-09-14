@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CreateDocument/무제 파일.md",
+                "file": "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CreateDocument/무제 파일.md",
+                "file": "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CreateDocument/무제 파일.md",
+                "file": "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CreateDocument/무제 파일.md"
+                "file": "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md"
               }
             }
           },
@@ -167,7 +168,8 @@
   },
   "active": "e94f2a72de0c8aa9",
   "lastOpenFiles": [
-    "CreateDocument/무제 파일.md",
+    "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
+    "CreateDocument/.md",
     "CreateDocument/CreateDocument.md",
     "Webserv/subject/subject_정리.md",
     "CreateDocument",

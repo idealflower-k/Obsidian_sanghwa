@@ -40,6 +40,7 @@
       "2. Weekly",
       "3. Monthly",
       "4. Yearly",
+      "CreateDocument",
       "CreateDocument"
     ],
     "Webserv": [
@@ -89,7 +90,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694692852612,
+  "spacesAutoBackupLast": 1694692890988,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
