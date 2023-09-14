@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +198,10 @@
   },
   "active": "009cb851e8976d58",
   "lastOpenFiles": [
-    "Webserv/context.mdb",
-    "Webserv/subject/subject_정리.md",
     "Webserv/Webserv 요구 사항.md",
+    "Webserv/subject/subject_정리.md",
     "Webserv/요구 사항 2.md",
+    "Webserv/context.mdb",
     "Webserv/subject/subject.md",
     "HTTP/HTTP.md",
     "HTTP/HTTP (HyperText Transfer Protocol).md",
@@ -230,7 +231,6 @@
     "3. Monthly",
     "4. Yearly",
     "2. Weekly",
-    "1. Daily",
     "무제 파일.canvas"
   ]
 }
