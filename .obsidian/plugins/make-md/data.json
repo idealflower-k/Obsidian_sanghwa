@@ -36,27 +36,30 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian_sanghwa": [
-      "Webserv/subject"
+      "Webserv/subject",
+      "2. Weekly",
+      "3. Monthly",
+      "4. Yearly"
     ],
     "Webserv": [
       "Webserv/subject",
-      "Webserv/subject",
-      "Webserv",
-      "Webserv",
-      "Webserv",
-      "Webserv"
+      "Webserv/subject"
+    ],
+    "WEB": [
+      "HTTP"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "Obsidian_sanghwa",
-    "Webserv"
+    "WEB"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "WEB",
+    "schedule",
     "Webserv",
     "Obsidian_sanghwa"
   ],
@@ -83,7 +86,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694690223673,
+  "spacesAutoBackupLast": 1694690541622,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

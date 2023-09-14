@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabUserSecret",
       "FabCalendarDays",
       "FabDailymotion"
     ],
@@ -22,5 +23,6 @@
   "2. Weekly": "FabCalendarDays",
   "1. Daily": "FabCalendarDays",
   "3. Monthly": "FabCalendarDays",
-  "4. Yearly": "FabCalendarDays"
+  "4. Yearly": "FabCalendarDays",
+  "HTTP/HTTP (HyperText Transfer Protocol).md": "FabUserSecret"
 }

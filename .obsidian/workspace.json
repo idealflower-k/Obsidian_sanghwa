@@ -11,9 +11,11 @@
             "id": "009cb851e8976d58",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Webserv"
+                "file": "HTTP/HTTP (HyperText Transfer Protocol).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTTP/HTTP (HyperText Transfer Protocol).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTTP/HTTP (HyperText Transfer Protocol).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTTP/HTTP (HyperText Transfer Protocol).md"
+              }
             }
           },
           {
@@ -161,6 +167,11 @@
   },
   "active": "009cb851e8976d58",
   "lastOpenFiles": [
+    "HTTP/HTTP.md",
+    "4. Yearly/4. Yearly.md",
+    "3. Monthly/3. Monthly.md",
+    "2. Weekly/2. Weekly.md",
+    "1. Daily/1. Daily.md",
     "무제 파일 1.md",
     "Webserv/Webserv 요구 사항.md",
     "Webserv/subject/subject.md",
