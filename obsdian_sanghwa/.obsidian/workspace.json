@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "981c59f895e8518d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b849e0515064786",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff02704956c381f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webserv/subject/subject_정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d0643a9d843af098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bee83bcdaf445e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webserv/Webserv 요구 사항.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7873103aef513f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4881597d0753e69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f44505cc8065038",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "130b660b1c6b38b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb072ee80f0410fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6ca79cc1a4670b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e386859b0395670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43be58d35f5d3c7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Webserv/subject/subject_정리.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ade92790223eee6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Webserv/subject/subject_정리.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac21a56236c2132a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36071f55f5dbbb8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Webserv/subject/subject_정리.md"
+              }
+            }
+          },
+          {
+            "id": "dedbbf74f7d45664",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "cff02704956c381f",
+  "lastOpenFiles": [
+    "Webserv/Webserv 요구 사항.md",
+    "Webserv/subject/subject_정리.md",
+    "Webserv/subject/webserv_subject.pdf",
+    "1. Daily/2023-09-14.md",
+    "Webserv/subject/webserv_subject_ko.pdf",
+    "Webserv/subject",
+    "HTTP/HTTP (HyperText Transfer Protocol).md",
+    "image file/transaction.jpg",
+    "image file/URI.jpg",
+    "image file",
+    "2. Weekly/2023-W37.md",
+    "3. Monthly",
+    "4. Yearly",
+    "2. Weekly",
+    "1. Daily",
+    "무제 파일.canvas",
+    "HTTP",
+    "Webserv"
+  ]
+}
