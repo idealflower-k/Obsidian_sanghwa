@@ -3,5 +3,7 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "color-extend"
-  ]
+  ],
+  "interfaceFontFamily": "Arial Rounded MT Bold",
+  "translucency": true
 }
