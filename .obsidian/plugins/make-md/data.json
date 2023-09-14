@@ -34,15 +34,30 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "Obsidian_sanghwa": [
+      "Webserv/subject"
+    ],
+    "Webserv": [
+      "Webserv/subject",
+      "Webserv/subject",
+      "Webserv",
+      "Webserv",
+      "Webserv",
+      "Webserv"
+    ]
+  },
   "expandedSpaces": [
     "/",
-    null
+    null,
+    "Obsidian_sanghwa",
+    "Webserv"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "Webserv",
     "Obsidian_sanghwa"
   ],
   "menuTriggerChar": "/",
@@ -68,7 +83,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694690057225,
+  "spacesAutoBackupLast": 1694690223673,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
