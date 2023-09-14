@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48508ab692fa4aa6",
+        "id": "48358ca175b25c1e",
         "type": "tabs",
         "children": [
           {
-            "id": "e94f2a72de0c8aa9",
+            "id": "dc0a22192398f8d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
+                "file": "Webserv/Webserv 요구 사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
+                "file": "Webserv/Webserv 요구 사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
+                "file": "Webserv/Webserv 요구 사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md"
+                "file": "Webserv/Webserv 요구 사항.md"
               }
             }
           },
@@ -166,23 +166,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e94f2a72de0c8aa9",
+  "active": "dc0a22192398f8d4",
   "lastOpenFiles": [
+    "Webserv/요구 사항 2.md",
+    "Webserv/Webserv 요구 사항.md",
+    "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
     "image file/Requirement Specification 1.png",
     "image file/Requirement Specification2.png",
     "image file/transaction.jpg",
     "image file/URI.jpg",
     "image file/Specific Requirement.png",
     "image file/Requirement Specification.png",
-    "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
     "image file/image file.md",
     "CreateDocument/.md",
     "CreateDocument/CreateDocument.md",
     "Webserv/subject/subject_정리.md",
     "CreateDocument",
     "무제 파일.md",
-    "Webserv/Webserv 요구 사항.md",
-    "Webserv/요구 사항 2.md",
     "Webserv/context.mdb",
     "Webserv/subject/subject.md",
     "HTTP/HTTP.md",

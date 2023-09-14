@@ -35,4 +35,4 @@
 ![[Requirement Specification 1.png|IEEE Std. 1012에서의 요구사항 명세서 체크 항목]]
 **IEEE Std. 830 에서의 좋은 요구사항의 특징**
 ![[Requirement Specification2.png]]
-- 
+- 이와 같은 항목들이 잘 반영된 소프트웨어 요구사항 명세서가 작성된다면 보다 객관적이며 정확하고, 추상성이 용이하며 일관성이 있는 높은 품질의 요구사항 명세서가 될 수 있다.
