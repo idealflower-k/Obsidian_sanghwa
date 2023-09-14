@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "21518b8ec6733ebf",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f2400b3ccb2bf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "294f3608748d862f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Webserv/subject/webserv_subject_ko.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "236476de27fe546f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9d5a23efb7f6bd41",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "853d72e6827e83a4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "75f7077759a55f24",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c3c9ebbedcb97157",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2c17106748085236",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f1669a6806623fad",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "da9a8ae2f7e5af69",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4290f5ff791284d4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "7169eeb6086e3535",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "9d5a23efb7f6bd41",
+  "lastOpenFiles": [
+    "Webserv/Webserv 요구 사항.md",
+    "Webserv 요구 사항.md",
+    "무제 파일.md",
+    "Webserv/subject/subject_정리.md",
+    "Webserv/subject_정리.md",
+    "Webserv/subject/webserv_subject_ko.pdf",
+    "Webserv/요구 사항.md",
+    "HTTP/HTTP (HyperText Transfer Protocol).md",
+    "요구 사항.md",
+    "요구사항.md",
+    "Webserv/webserv_subject_ko.pdf",
+    "Webserv/subject/webserv_subject.pdf",
+    "Webserv/subject",
+    "무제 폴더",
+    "Webserv/webserv_subject (1).pdf",
+    "image file/transaction.jpg",
+    "Webserv/webserv_subject.pdf",
+    "image file/URI.jpg",
+    "2. Weekly/2023-W37.md",
+    "1. Daily/2023-09-14.md"
+  ]
+}
