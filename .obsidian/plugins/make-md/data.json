@@ -41,7 +41,8 @@
       "3. Monthly",
       "4. Yearly",
       "CreateDocument",
-      "CreateDocument"
+      "CreateDocument",
+      "image file"
     ],
     "Webserv": [
       "Webserv/subject",
@@ -90,7 +91,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694694254365,
+  "spacesAutoBackupLast": 1694694599003,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
