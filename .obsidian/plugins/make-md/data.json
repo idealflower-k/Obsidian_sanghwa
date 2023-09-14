@@ -40,7 +40,8 @@
       "2. Weekly",
       "3. Monthly",
       "4. Yearly",
-      "Webserv"
+      "Webserv",
+      "image file"
     ],
     "Webserv": [
       "Webserv/subject",
@@ -60,7 +61,8 @@
   "expandedSpaces": [
     "/",
     null,
-    "Webserv"
+    "Webserv",
+    "Obsidian_sanghwa"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -94,7 +96,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694695315507,
+  "spacesAutoBackupLast": 1694697019102,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
