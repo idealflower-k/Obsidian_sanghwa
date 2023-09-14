@@ -11,12 +11,8 @@
             "id": "cff02704956c381f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webserv/Webserv 요구 사항.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webserv/Webserv 요구 사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webserv/Webserv 요구 사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Webserv/Webserv 요구 사항.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +150,12 @@
   },
   "active": "cff02704956c381f",
   "lastOpenFiles": [
+    "HTTP/HTTP (HyperText Transfer Protocol).md",
     "Webserv/subject/subject_정리.md",
     "Webserv/Webserv 요구 사항.md",
+    "Webserv/subject/webserv_subject_ko.pdf",
+    "Webserv/subject/webserv_subject.pdf",
     "3. Monthly/무제 파일.md",
-    "HTTP/HTTP (HyperText Transfer Protocol).md",
     "1. Daily/2023-09-23.md",
     "무제 파일.md",
     "2. Weekly/무제 파일.md",
@@ -170,8 +164,6 @@
     "1. Daily/2023-10-13.md",
     "1. Daily/2023-09-30.md",
     "1. Daily/2023-09-14.md",
-    "Webserv/subject/webserv_subject.pdf",
-    "Webserv/subject/webserv_subject_ko.pdf",
     "Webserv/subject",
     "image file/transaction.jpg",
     "image file/URI.jpg",
