@@ -2,5 +2,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "image file",
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "newFileLocation": "current"
 }

@@ -11,8 +11,12 @@
             "id": "11529e355d21fcea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Webserv/Webserv 요구 사항.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Webserv/Webserv 요구 사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Webserv/Webserv 요구 사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Webserv/Webserv 요구 사항.md"
+              }
             }
           },
           {
@@ -160,6 +168,7 @@
   "active": "11529e355d21fcea",
   "lastOpenFiles": [
     "Webserv/Webserv 요구 사항.md",
+    "무제 파일.md",
     "Webserv/subject/webserv_subject.md",
     "Webserv/subject/webserv_subject.pdf",
     "image file/Specific Requirement.png",
@@ -177,7 +186,6 @@
     "CreateDocument/.md",
     "CreateDocument/CreateDocument.md",
     "CreateDocument",
-    "무제 파일.md",
     "Webserv/context.mdb",
     "HTTP/HTTP.md",
     "4. Yearly/4. Yearly.md",

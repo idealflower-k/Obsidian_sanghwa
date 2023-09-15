@@ -40,39 +40,27 @@
       "2. Weekly",
       "3. Monthly",
       "4. Yearly",
-      "Webserv",
       "image file",
       "Webserv/subject"
     ],
     "Webserv": [
-      "Webserv/subject",
-      "Webserv/subject",
-      "Webserv",
-      "Webserv",
-      "Webserv",
-      "Webserv",
-      "Webserv",
-      "Webserv",
-      "Webserv",
-      "Webserv",
-      "Webserv/subject"
+      "Webserv"
     ],
     "WEB": []
   },
   "expandedSpaces": [
     "/",
     null,
-    "Webserv",
-    "Obsidian_sanghwa",
-    null
+    null,
+    "Webserv"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "Webserv",
     "WEB",
     "schedule",
-    "Webserv",
     "Obsidian_sanghwa"
   ],
   "menuTriggerChar": "/",
@@ -98,7 +86,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694697499901,
+  "spacesAutoBackupLast": 1694752098527,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
