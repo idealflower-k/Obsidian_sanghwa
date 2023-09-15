@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bee88d38411905e8",
+        "id": "f3f8e846149c2a1c",
         "type": "tabs",
         "children": [
           {
-            "id": "11529e355d21fcea",
+            "id": "646e40a152490868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Webserv/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Webserv/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Webserv/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Webserv/무제 파일.md"
               }
             }
           },
@@ -165,10 +164,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "11529e355d21fcea",
+  "active": "646e40a152490868",
   "lastOpenFiles": [
+    "Webserv/무제 파일.md",
     "Webserv/Webserv 요구 사항.md",
-    "무제 파일.md",
+    "Webserv/Webserv.md",
     "HTTP/HTTP (HyperText Transfer Protocol).md",
     "Webserv/subject/webserv_subject.md",
     "Webserv/subject/webserv_subject.pdf",
@@ -193,7 +193,6 @@
     "2. Weekly/2. Weekly.md",
     "1. Daily/1. Daily.md",
     "무제 파일 1.md",
-    "Webserv/Webserv.md",
     "Context/spacesLastSync.log",
     "Context",
     "Webserv/subject/webserv_subject_ko.pdf",
