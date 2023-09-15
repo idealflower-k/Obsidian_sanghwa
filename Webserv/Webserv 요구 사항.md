@@ -1,5 +1,4 @@
 #webserv
-[[subject_정리|subject 참고]]
 
 # 1. 목적
 webserv 프로그램의 구현에 앞서 subject에 나와있는 요구사항과 제약사항들을 문서화하기 위해 작성된다.
@@ -89,3 +88,9 @@ webserv 프로그램의 구현에 앞서 subject에 나와있는 요구사항과
 ## 보너스 파트
 - 쿠키와 세션 관리 지원 (빠른 예시 준비).
 - 여러 CGI 처리.
+
+
+
+#### 의존
+[[webserv_subject|subject 참고]]
+[[소프트웨어 요구사항 명세서 (SRS)]]
