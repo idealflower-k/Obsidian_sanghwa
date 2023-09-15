@@ -53,4 +53,4 @@ ftp://prep.ai.mit.edu/pub/gnu;type=d
 ```
 http://www.joes-hardware.com/hammers;sale=false/index.html;graphics=true
 ```
-- 위 URL에는
+- 위 URL에는 hammers와 index.html이라는 두 개의 경로조각이 있다. 각각의 경로조각은 
