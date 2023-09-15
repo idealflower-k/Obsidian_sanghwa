@@ -3,5 +3,7 @@
   "attachmentFolderPath": "image file",
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true
 }
