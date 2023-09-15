@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webserv/Webserv 요구 사항.md",
+                "file": "Webserv/subject/Webserv 요구 사항.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12b04ec1fe995ebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Weekly/2023-W37.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,28 +213,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43f93e3162d1cfd6",
+  "active": "12b04ec1fe995ebc",
   "lastOpenFiles": [
-    "1. Daily/2023-09-23.md",
     "1. Daily/2023-09-15.md",
-    "2. Weekly/2023-W37.md",
-    "Webserv/pipe, socket.md",
+    "Webserv/생각 해볼 거리.md",
+    "Webserv/subject/webserv_subject_note.md",
+    "Webserv/webserv 요구사항 v.2.md",
+    "Webserv/subject/subject.md",
+    "Webserv/함수 정리.md",
     "Webserv/event.md",
-    "Webserv/Webserv 요구 사항.md",
+    "Webserv/pipe, socket.md",
+    "Webserv/subject/Webserv 요구 사항.md",
+    "2. Weekly/2023-W37.md",
+    "1. Daily/2023-09-23.md",
     "1. Daily/무제 파일.md",
     "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
-    "Webserv/webserv 요구사항 v.2.md",
-    "Webserv/함수 정리.md",
     "image file/image file.md",
     "HTTP/HTTP.md",
     "CreateDocument/CreateDocument.md",
     "4. Yearly/4. Yearly.md",
     "Webserv/Webserv.md",
     "HTTP/HTTP (HyperText Transfer Protocol).md",
-    "Webserv/subject/webserv_subject.md",
     "Webserv/subject/webserv_subject.pdf",
     "image file/Specific Requirement.png",
-    "Webserv/subject/subject.md",
     "image file/Webserv 요구 사항.md",
     "Webserv/요구 사항 2.md",
     "image file/Requirement Specification 1.png",
@@ -241,7 +253,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "Webserv/subject/webserv_subject_ko.pdf",
-    "3. Monthly/무제 파일.md",
     "Webserv/subject",
     "image file",
     "3. Monthly",
