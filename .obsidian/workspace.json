@@ -195,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -215,6 +215,9 @@
   },
   "active": "12b04ec1fe995ebc",
   "lastOpenFiles": [
+    "1. Daily/2023-09-30.md",
+    "1. Daily/2023-09-23.md",
+    "2. Weekly/2023-W37.md",
     "1. Daily/2023-09-15.md",
     "Webserv/생각 해볼 거리.md",
     "Webserv/subject/webserv_subject_note.md",
@@ -224,8 +227,6 @@
     "Webserv/event.md",
     "Webserv/pipe, socket.md",
     "Webserv/subject/Webserv 요구 사항.md",
-    "2. Weekly/2023-W37.md",
-    "1. Daily/2023-09-23.md",
     "1. Daily/무제 파일.md",
     "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
     "image file/image file.md",
@@ -249,7 +250,6 @@
     "3. Monthly/3. Monthly.md",
     "2. Weekly/2. Weekly.md",
     "1. Daily/1. Daily.md",
-    "무제 파일 1.md",
     "Context/spacesLastSync.log",
     "Context",
     "Webserv/subject/webserv_subject_ko.pdf",
