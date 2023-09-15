@@ -13,7 +13,7 @@
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
   "anuppuccin-theme-settings@@anp-header-margin-toggle": true,
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
-  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-green",
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-lavender",
   "anuppuccin-theme-settings@@anp-background-image-toggle": true,
   "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2\")",
   "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 1,
@@ -30,5 +30,5 @@
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": false,
   "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-yellow",
-  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-green"
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-lavender"
 }
