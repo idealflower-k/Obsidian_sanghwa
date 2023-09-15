@@ -50,4 +50,6 @@
 ftp://prep.ai.mit.edu/pub/gnu;type=d
 ```
 - 이 경우 이름은 'type'이고, 값은 'd'인 type=d라는 단 한 개의 파라미터를 전달한다.
-- 
+```
+http://www.
+```
