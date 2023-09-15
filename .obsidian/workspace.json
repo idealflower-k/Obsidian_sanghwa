@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webserv/webserv 회의 기록.md",
+                "file": "Webserv/subject/Webserv 요구 사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webserv/webserv 회의 기록.md",
+                "file": "Webserv/subject/Webserv 요구 사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webserv/webserv 회의 기록.md",
+                "file": "Webserv/subject/Webserv 요구 사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webserv/webserv 회의 기록.md"
+                "file": "Webserv/subject/Webserv 요구 사항.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "2ef08bcc8a60ab78",
   "lastOpenFiles": [
-    "Webserv/생각 해볼 거리.md",
     "Webserv/webserv 회의 기록.md",
+    "Webserv/생각 해볼 거리.md",
     "1. Daily/2023-09-15.md",
     "Webserv/subject/Webserv 요구 사항.md",
     "2. Weekly/2023-W37.md",
