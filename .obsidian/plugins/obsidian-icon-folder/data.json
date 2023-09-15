@@ -6,6 +6,8 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFunctionFill",
+      "🕸",
       "FabUserSecret",
       "FabCalendarDays",
       "FabDailymotion"
@@ -24,5 +26,7 @@
   "1. Daily": "FabCalendarDays",
   "3. Monthly": "FabCalendarDays",
   "4. Yearly": "FabCalendarDays",
-  "HTTP/HTTP (HyperText Transfer Protocol).md": "FabUserSecret"
+  "HTTP/HTTP (HyperText Transfer Protocol).md": "FabUserSecret",
+  "Webserv": "🕸",
+  "Webserv/함수 정리.md": "RiFunctionFill"
 }
