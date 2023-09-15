@@ -90,5 +90,5 @@
 
 
 
-#### 의존
+#### 연결 노트
 [[HTTP (HyperText Transfer Protocol)]]
