@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webserv/무제 파일.md",
+                "file": "1. Daily/2023-09-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webserv/무제 파일.md",
+                "file": "1. Daily/2023-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webserv/무제 파일.md",
+                "file": "1. Daily/2023-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webserv/무제 파일.md"
+                "file": "1. Daily/2023-09-15.md"
               }
             }
           },
@@ -166,7 +166,13 @@
   },
   "active": "646e40a152490868",
   "lastOpenFiles": [
+    "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
+    "1. Daily/2023-09-15.md",
+    "image file/image file.md",
+    "HTTP/HTTP.md",
+    "CreateDocument/CreateDocument.md",
     "Webserv/무제 파일.md",
+    "4. Yearly/4. Yearly.md",
     "Webserv/Webserv 요구 사항.md",
     "Webserv/Webserv.md",
     "HTTP/HTTP (HyperText Transfer Protocol).md",
@@ -176,19 +182,14 @@
     "Webserv/subject/subject.md",
     "image file/Webserv 요구 사항.md",
     "Webserv/요구 사항 2.md",
-    "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
     "image file/Requirement Specification 1.png",
     "image file/Requirement Specification2.png",
     "image file/transaction.jpg",
     "image file/URI.jpg",
     "image file/Requirement Specification.png",
-    "image file/image file.md",
     "CreateDocument/.md",
-    "CreateDocument/CreateDocument.md",
     "CreateDocument",
     "Webserv/context.mdb",
-    "HTTP/HTTP.md",
-    "4. Yearly/4. Yearly.md",
     "3. Monthly/3. Monthly.md",
     "2. Weekly/2. Weekly.md",
     "1. Daily/1. Daily.md",
