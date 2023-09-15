@@ -13,14 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-09-15.md",
+                "file": "Webserv/생각 해볼 거리.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "646e40a152490868",
+            "id": "2ef08bcc8a60ab78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webserv/webserv 회의 기록.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b8ecf7776e21dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Weekly/2023-W37.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4affcb237fbd493f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,45 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "12b04ec1fe995ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Weekly/2023-W37.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24b0fcb47ebf3be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webserv/event.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43f93e3162d1cfd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Weekly/2023-W37.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Weekly/2023-W37.md",
+                "file": "Webserv/webserv 회의 기록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Weekly/2023-W37.md",
+                "file": "Webserv/webserv 회의 기록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Weekly/2023-W37.md"
+                "file": "Webserv/webserv 회의 기록.md"
               }
             }
           },
@@ -213,20 +201,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12b04ec1fe995ebc",
+  "active": "2ef08bcc8a60ab78",
   "lastOpenFiles": [
+    "Webserv/생각 해볼 거리.md",
+    "Webserv/webserv 회의 기록.md",
+    "1. Daily/2023-09-15.md",
+    "Webserv/subject/Webserv 요구 사항.md",
+    "2. Weekly/2023-W37.md",
+    "Webserv/event.md",
     "1. Daily/2023-09-30.md",
     "1. Daily/2023-09-23.md",
-    "2. Weekly/2023-W37.md",
-    "1. Daily/2023-09-15.md",
-    "Webserv/생각 해볼 거리.md",
     "Webserv/subject/webserv_subject_note.md",
     "Webserv/webserv 요구사항 v.2.md",
     "Webserv/subject/subject.md",
     "Webserv/함수 정리.md",
-    "Webserv/event.md",
     "Webserv/pipe, socket.md",
-    "Webserv/subject/Webserv 요구 사항.md",
     "1. Daily/무제 파일.md",
     "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
     "image file/image file.md",
@@ -249,7 +238,6 @@
     "Webserv/context.mdb",
     "3. Monthly/3. Monthly.md",
     "2. Weekly/2. Weekly.md",
-    "1. Daily/1. Daily.md",
     "Context/spacesLastSync.log",
     "Context",
     "Webserv/subject/webserv_subject_ko.pdf",
