@@ -49,3 +49,4 @@
 ```text
 ftp://prep.ai.mit.edu/pub/gnu;type=d
 ```
+- 이 경우 이름은 'type'
