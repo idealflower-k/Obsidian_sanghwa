@@ -52,7 +52,8 @@
     "/",
     null,
     null,
-    "Webserv"
+    "Webserv",
+    "Obsidian_sanghwa"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -86,7 +87,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694752098527,
+  "spacesAutoBackupLast": 1694754330160,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
