@@ -47,8 +47,10 @@
             "id": "0410aca8c9c4181b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "image file/transaction.jpg"
+              }
             }
           }
         ],
@@ -246,11 +248,19 @@
   },
   "active": "bff0b374f6a21b5a",
   "lastOpenFiles": [
+    "image file/File (3).jpg",
+    "image file/transaction.jpg",
+    "image file/URI.jpg",
+    "image file/Specific Requirement.png",
+    "image file/Requirement Specification2.png",
+    "image file/Requirement Specification 1.png",
+    "image file/IMG_01425F8208AE-1.jpeg",
+    "image file/IMG_72C8021A7DD0-1.jpeg",
+    "image file/File (2).jpg",
+    "WEB_note/HTTP/HTTP 메시지.md",
     "WEB_note/HTTP/URN.md",
     "WEB_note/HTTP/URL과 리소스.md",
-    "WEB_note/HTTP/HTTP 메시지.md",
     "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
-    "image file/File (2).jpg",
     "그래프.md",
     "무제 폴더",
     "WEB_note",
@@ -261,8 +271,6 @@
     "2. Weekly/2023-W37.md",
     "42seoul/Webserv/subject/webserv_subject_note.md",
     "42seoul/Webserv/생각 해볼 거리.md",
-    "image file/IMG_72C8021A7DD0-1.jpeg",
-    "image file/IMG_01425F8208AE-1.jpeg",
     "HTTP/IMG_01425F8208AE-1.md",
     "Tip/vscode에 clang-format 적용하는 법.md",
     "Tip",
@@ -279,13 +287,7 @@
     "1. Daily/2023-09-23.md",
     "Webserv/webserv 요구사항 v.2.md",
     "Webserv/subject/subject.md",
-    "1. Daily/무제 파일.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
-    "image file/Specific Requirement.png",
-    "image file/Requirement Specification 1.png",
-    "image file/Requirement Specification2.png",
-    "image file/transaction.jpg",
-    "image file/URI.jpg",
     "image file/Requirement Specification.png",
     "CreateDocument",
     "Webserv/context.mdb",
