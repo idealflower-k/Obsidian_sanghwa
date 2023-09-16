@@ -26,8 +26,8 @@
   "1. Daily": "FabCalendarDays",
   "3. Monthly": "FabCalendarDays",
   "4. Yearly": "FabCalendarDays",
-  "HTTP/HTTP (HyperText Transfer Protocol).md": "FabUserSecret",
-  "Webserv": "🕸",
-  "Webserv/함수 정리.md": "RiFunctionFill",
-  "Webserv/생각 해볼 거리.md": "FabQuestion"
+  "42seoul/Webserv": "🕸",
+  "42seoul/Webserv/생각 해볼 거리.md": "FabQuestion",
+  "42seoul/Webserv/함수 정리.md": "RiFunctionFill",
+  "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md": "FabUserSecret"
 }

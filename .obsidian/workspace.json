@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP/HTTP (HyperText Transfer Protocol).md",
+                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP/HTTP (HyperText Transfer Protocol).md",
+                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP/HTTP (HyperText Transfer Protocol).md",
+                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP/HTTP (HyperText Transfer Protocol).md"
+                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP/URL과 리소스.md",
+                "file": "WEB_note/HTTP/URL과 리소스.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,43 +185,45 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "54ac34f0fca9d48f",
+  "active": "8f44505cc8065038",
   "lastOpenFiles": [
-    "HTTP/URL과 리소스.md",
-    "HTTP/HTTP (HyperText Transfer Protocol).md",
+    "무제 폴더",
+    "WEB_note",
+    "42seoul",
+    "WEB_note/HTTP/URL과 리소스.md",
+    "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
     "1. Daily/2023-09-16.md",
     "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
-    "Webserv/subject/Webserv 요구 사항.md",
+    "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "2. Weekly/2023-W37.md",
-    "Webserv/subject/webserv_subject_note.md",
-    "Webserv/생각 해볼 거리.md",
+    "42seoul/Webserv/subject/webserv_subject_note.md",
+    "42seoul/Webserv/생각 해볼 거리.md",
     "image file/IMG_72C8021A7DD0-1.jpeg",
     "image file/IMG_01425F8208AE-1.jpeg",
     "HTTP/IMG_01425F8208AE-1.md",
-    "HTTP/URN.md",
+    "WEB_note/HTTP/URN.md",
     "Tip/vscode에 clang-format 적용하는 법.md",
     "Tip",
     "무제 파일.canvas",
     "2023-09-15.md",
     "1. Daily/2023-09-15.md",
-    "Webserv/webserv 회의 기록.md",
+    "42seoul/Webserv/webserv 회의 기록.md",
     "1. Daily/2023-10-13.md",
     "1. Daily/2023-09-30.md",
     "Webserv/무제 파일.md",
-    "Webserv/함수 정리.md",
-    "Webserv/pipe, socket.md",
-    "Webserv/event.md",
+    "42seoul/Webserv/함수 정리.md",
+    "42seoul/Webserv/pipe, socket.md",
+    "42seoul/Webserv/event.md",
     "1. Daily/2023-09-23.md",
     "Webserv/webserv 요구사항 v.2.md",
     "Webserv/subject/subject.md",
     "1. Daily/무제 파일.md",
     "image file/image file.md",
-    "HTTP/HTTP.md",
-    "Webserv/subject/webserv_subject.pdf",
+    "42seoul/Webserv/subject/webserv_subject.pdf",
     "image file/Specific Requirement.png",
     "image file/Requirement Specification 1.png",
     "image file/Requirement Specification2.png",
@@ -232,9 +234,7 @@
     "Webserv/context.mdb",
     "Context/spacesLastSync.log",
     "Context",
-    "Webserv/subject/webserv_subject_ko.pdf",
-    "Webserv/subject",
-    "image file",
-    "3. Monthly"
+    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+    "42seoul/Webserv/subject"
   ]
 }
