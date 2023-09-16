@@ -87,3 +87,19 @@ http://www.joes-hardware.com/tools.html#drills
 - 이는 문서의 URL을 기준으로 상대경로를 해석될 수 있다.
 - HTML 작성자는 URL에 스킴과 호스트 그리고 다른 컴포넌트를 모두 입력하지 않아도 된다.
 - 그 정보는 컴포넌트가 포함된 리소스의 기저 URL에서 알아낼 수 있다.
+- 스킴은 http이고 호스트는 http://www.joes-hardware.com 라는 것을 추측할 수 있다.
+```html
+http://www.joes-hardware.com/hammers.html
+```
+- 상대 URL은 프래그먼트이거나 URL의 일부다.
+- URL을 처리하는 브라우저 같은 애플리케이션은 상대 URL과 절대 URL간에 상호 변환을 할 수 있어야 한다.
+- 상대 URL을 사용하면 리소스 집합(HTML 페이지 같은)을 쉽게 변경할 수 있다.
+- 새로운 기저 URL에 의해서 해석될 것이기 때문에 위치를 변경하더라도 잘 동작할 것이다.
+#### 기저 URL
+- 기저 URL은 상대 URL의 기준이 된다.
+- 그것을 가져오는 몇가지 방법이 있다.
+##### 리소스에서 명시적으로 제공
+- 예를 들어 HTML문서에서는 기저 URL을 가리키는
+```html
+<BASE>HTML 태그를 기술할 수 있다.
+```
