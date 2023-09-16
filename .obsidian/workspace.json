@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
+                "file": "WEB_note/HTTP/HTTP 메시지.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
+                "file": "WEB_note/HTTP/HTTP 메시지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
+                "file": "WEB_note/HTTP/HTTP 메시지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md"
+                "file": "WEB_note/HTTP/HTTP 메시지.md"
               }
             }
           }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
+                "file": "WEB_note/HTTP/HTTP 메시지.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,9 +246,10 @@
   },
   "active": "bff0b374f6a21b5a",
   "lastOpenFiles": [
+    "WEB_note/HTTP/URN.md",
+    "WEB_note/HTTP/URL과 리소스.md",
     "WEB_note/HTTP/HTTP 메시지.md",
     "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
-    "WEB_note/HTTP/URL과 리소스.md",
     "image file/File (2).jpg",
     "그래프.md",
     "무제 폴더",
@@ -263,7 +264,6 @@
     "image file/IMG_72C8021A7DD0-1.jpeg",
     "image file/IMG_01425F8208AE-1.jpeg",
     "HTTP/IMG_01425F8208AE-1.md",
-    "WEB_note/HTTP/URN.md",
     "Tip/vscode에 clang-format 적용하는 법.md",
     "Tip",
     "무제 파일.canvas",
