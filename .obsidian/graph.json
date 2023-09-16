@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:Webserv  ",
+      "query": "path:42seoul/Webserv  ",
       "color": {
         "a": 1,
         "rgb": 16711680
@@ -46,6 +46,6 @@
   "repelStrength": 8.99820963541667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 2.733010535518915,
+  "scale": 0.733063275600943,
   "close": true
 }
