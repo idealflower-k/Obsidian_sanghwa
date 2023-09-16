@@ -55,3 +55,4 @@ http://www.joes-hardware.com/hammers;sale=false/index.html;graphics=true
 ```
 - 위 URL에는 hammers와 index.html이라는 두 개의 경로조각이 있다. 각각의 경로조각은 파라미터를 가진다.
 ### 질의 문자열
+- 데이터베이스 같은 서비스들은 요청받을 리소스 ㅕㅇ식의 범위를 좁히기 위해서 질문이나 질의르 ㄹ바
