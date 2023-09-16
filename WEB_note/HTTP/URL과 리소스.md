@@ -78,4 +78,12 @@ http://www.joes-hardware.com/tools.html#drills
 ### 상대 URL
 - URL은 **상대 URL과 절대 URL** 두 가지로 나뉜다.
 - 절대 URL은 리소스에 접근하는데 필요한 모든 정보를 가지고 있다. **상대 URL**은 모든 정보를 담고 있지는 않다.
-- 
+- 리소스에 접근하는데 필요한 모든 정보를 얻기 위해서는, **기저(base)** 라고 하는 다른 URL을 사용해야 한다.
+- **상대 URL**은 URL을 짥게 표가하는 방식이다.
+```html
+<p> joe;s Hardware Online ... <A HERF="./hammers.html">hammers
+```
+- HTML 문서에는 **hammers.html** URL을 가리키는 하이퍼링크가 있다. 이 URL은 올바른 문법의 상대 URL이다.
+- 이는 문서의 URL을 기준으로 상대경로를 해석될 수 있다.
+- HTML 작성자는 URL에 스킴과 호스트 그리고 다른 컴포넌트를 모두 입력하지 않아도 된다.
+- 그 정보는 컴포넌트가 포함된 리소스의 기저 URL에서 알아낼 수 있다.
