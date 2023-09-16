@@ -1,4 +1,4 @@
-#HTTP #WEB
+리#HTTP #WEB
 # HTTP (HyperText Transfer Protocol)
 ## 정의
 - 월드 와이드 웹(WWW)에서 통신하는 데 사용하는 프로토콜 프로그램
