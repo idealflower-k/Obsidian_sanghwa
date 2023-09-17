@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tip/vscode에 clang-format 적용하는 법.md",
+                "file": "42seoul/Webserv/echo-server.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tip/vscode에 clang-format 적용하는 법.md",
+                "file": "42seoul/Webserv/echo-server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tip/vscode에 clang-format 적용하는 법.md",
+                "file": "42seoul/Webserv/echo-server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tip/vscode에 clang-format 적용하는 법.md"
+                "file": "42seoul/Webserv/echo-server.md"
               }
             }
           },
@@ -211,6 +211,7 @@
   },
   "active": "14931477ec803a89",
   "lastOpenFiles": [
+    "Tip/vscode에 clang-format 적용하는 법.md",
     "42seoul/Webserv/echo-server.md",
     "WEB_note/HTTP/HTTP 메시지.md",
     "WEB_note/HTTP/URL과 리소스.md",
@@ -246,7 +247,6 @@
     "image file/IMG_01425F8208AE-1.jpeg",
     "HTTP/IMG_01425F8208AE-1.md",
     "HTTP/URN.md",
-    "Tip/vscode에 clang-format 적용하는 법.md",
     "Tip",
     "무제 파일.canvas",
     "2023-09-15.md",
