@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/echo-server.md",
+                "file": "Tip/vscode에 clang-format 적용하는 법.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/echo-server.md",
+                "file": "Tip/vscode에 clang-format 적용하는 법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/echo-server.md",
+                "file": "Tip/vscode에 clang-format 적용하는 법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/echo-server.md"
+                "file": "Tip/vscode에 clang-format 적용하는 법.md"
               }
             }
           },
@@ -209,10 +209,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8f44505cc8065038",
+  "active": "14931477ec803a89",
   "lastOpenFiles": [
-    "WEB_note/HTTP/HTTP 메시지.md",
     "42seoul/Webserv/echo-server.md",
+    "WEB_note/HTTP/HTTP 메시지.md",
     "WEB_note/HTTP/URL과 리소스.md",
     "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
     "conflict-files-obsidian-git.md",
