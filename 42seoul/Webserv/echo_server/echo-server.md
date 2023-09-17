@@ -80,4 +80,4 @@ while (true) {
 
 ---
 ## 연결 노트
-- [[42seoul/Webserv/함수 정리|함수 정리]]
+- [[42seoul/Webserv/함수/함수 정리|함수 정리]]
