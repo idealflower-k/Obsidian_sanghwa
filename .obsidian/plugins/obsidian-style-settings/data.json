@@ -30,5 +30,9 @@
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": false,
   "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-yellow",
-  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-lavender"
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-lavender",
+  "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-red",
+  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-green",
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-peach",
+  "anuppuccin-theme-settings@@file-line-width": 1200
 }

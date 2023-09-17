@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85f745113463b1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB_note/HTTP/HTTP 메시지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9511b0ddb397e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB_note/HTTP/URL과 리소스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-15.md",
+                "file": "WEB_note/HTTP/URL과 리소스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-09-15.md",
+                "file": "WEB_note/HTTP/URL과 리소스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-15.md"
+                "file": "WEB_note/HTTP/URL과 리소스.md"
               }
             }
           },
@@ -172,8 +197,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a155d62f34bdf6f0",
+  "active": "a9511b0ddb397e35",
   "lastOpenFiles": [
+    "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
+    "conflict-files-obsidian-git.md",
+    "WEB_note/HTTP/HTTP 메시지.md",
+    "WEB_note/HTTP/URL과 리소스.md",
+    "1. Daily/2023-09-15.md",
+    "image file/File (3).jpg",
+    "image file/File (2).jpg",
+    "WEB_note/HTTP/URN.md",
+    "WEB_note/HTTP",
+    "WEB_note",
+    "42seoul/Webserv/subject/webserv_subject_note.md",
+    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+    "42seoul/Webserv/subject/webserv_subject.pdf",
+    "42seoul/Webserv/subject/Webserv 요구 사항.md",
+    "42seoul/Webserv/생각 해볼 거리.md",
+    "42seoul/Webserv/함수 정리.md",
+    "42seoul/Webserv/webserv 회의 기록.md",
+    "42seoul/Webserv/subject",
+    "42seoul/Webserv/pipe, socket.md",
+    "42seoul/Webserv/event.md",
+    "42seoul/Webserv",
+    "42seoul",
+    "1. Daily/2023-09-16.md",
     "Webserv/생각 해볼 거리.md",
     "HTTP/URL과 리소스.md",
     "HTTP/HTTP (HyperText Transfer Protocol).md",
@@ -189,20 +237,7 @@
     "Tip",
     "무제 파일.canvas",
     "2023-09-15.md",
-    "1. Daily/2023-09-15.md",
     "Webserv/webserv 회의 기록.md",
-    "1. Daily/2023-10-13.md",
-    "1. Daily/2023-09-30.md",
-    "Webserv/무제 파일.md",
-    "Webserv/함수 정리.md",
-    "Webserv/pipe, socket.md",
-    "Webserv/event.md",
-    "1. Daily/2023-09-23.md",
-    "Webserv/webserv 요구사항 v.2.md",
-    "Webserv/subject/subject.md",
-    "1. Daily/무제 파일.md",
-    "image file/image file.md",
-    "HTTP/HTTP.md",
     "Webserv/subject/webserv_subject.pdf",
     "image file/Specific Requirement.png",
     "image file/Requirement Specification 1.png",
@@ -210,13 +245,6 @@
     "image file/transaction.jpg",
     "image file/URI.jpg",
     "image file/Requirement Specification.png",
-    "CreateDocument",
-    "Webserv/context.mdb",
-    "Context/spacesLastSync.log",
-    "Context",
-    "Webserv/subject/webserv_subject_ko.pdf",
-    "Webserv/subject",
-    "image file",
-    "3. Monthly"
+    "CreateDocument"
   ]
 }

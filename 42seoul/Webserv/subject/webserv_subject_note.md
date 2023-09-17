@@ -1,6 +1,6 @@
 #webserv 
 # webserv
-[[webserv_subject.pdf|webserv.pdf]]
+[[42seoul/Webserv/subject/webserv_subject.pdf|webserv.pdf]]
 # 요구 사항 명세
 ## 일반 규칙 (General rules)
 - Makefile 제출
@@ -21,7 +21,7 @@
 - ./webserv [configuration file]
 
 >  RFC를 읽고 텔넷 및 NGINX를 사용하여 몇 가지 테스트를 수행한 후 수행하시오.
-### [[Webserv/subject/Webserv 요구 사항|요구사항]]
+### [[42seoul/Webserv/subject/Webserv 요구 사항|요구사항]]
 1. 프로그램은 인자로 설정 파일을 받아야 하며, 그렇지 않으면 기본 경로를 사용해야 합니다.
 2. 다른 웹 서버를 execve로 실행할 수 없습니다.
 3. 서버는 언제나 블록되어서는 안되며, 필요한 경우 클라이언트는 적절히 종료될 수 있어야 합니다.
@@ -91,4 +91,4 @@
 
 
 #### 연결 노트
-[[HTTP (HyperText Transfer Protocol)]]
+[[WEB_note/HTTP/HTTP (HyperText Transfer Protocol)]]
