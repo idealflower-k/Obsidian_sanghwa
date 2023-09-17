@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB_note/HTTP/URL과 리소스.md",
+                "file": "WEB_note/HTTP/HTTP 메시지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14931477ec803a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42seoul/Webserv/echo-server.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB_note/HTTP/URL과 리소스.md",
+                "file": "42seoul/Webserv/echo-server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB_note/HTTP/URL과 리소스.md",
+                "file": "42seoul/Webserv/echo-server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB_note/HTTP/URL과 리소스.md"
+                "file": "42seoul/Webserv/echo-server.md"
               }
             }
           },
@@ -197,12 +209,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a9511b0ddb397e35",
+  "active": "8f44505cc8065038",
   "lastOpenFiles": [
+    "WEB_note/HTTP/HTTP 메시지.md",
+    "42seoul/Webserv/echo-server.md",
+    "WEB_note/HTTP/URL과 리소스.md",
     "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
     "conflict-files-obsidian-git.md",
-    "WEB_note/HTTP/HTTP 메시지.md",
-    "WEB_note/HTTP/URL과 리소스.md",
     "1. Daily/2023-09-15.md",
     "image file/File (3).jpg",
     "image file/File (2).jpg",
@@ -237,7 +250,6 @@
     "Tip",
     "무제 파일.canvas",
     "2023-09-15.md",
-    "Webserv/webserv 회의 기록.md",
     "Webserv/subject/webserv_subject.pdf",
     "image file/Specific Requirement.png",
     "image file/Requirement Specification 1.png",
