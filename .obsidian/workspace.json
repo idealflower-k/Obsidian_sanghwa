@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "9369cf56b1d1c213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42seoul/Webserv/IO multiplexing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dbe7ce34d72443d9",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/생각 해볼 거리.md",
+                "file": "42seoul/Webserv/IO multiplexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/생각 해볼 거리.md",
+                "file": "42seoul/Webserv/IO multiplexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/생각 해볼 거리.md"
+                "file": "42seoul/Webserv/IO multiplexing.md"
               }
             }
           },
@@ -221,13 +233,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a08304c08e892a70",
+  "active": "9369cf56b1d1c213",
   "lastOpenFiles": [
+    "42seoul/Webserv/생각 해볼 거리.md",
+    "42seoul/Webserv/IO multiplexing.md",
     "42seoul/Webserv/select, poll, epoll, kqueue.md",
     "42seoul/Webserv/echo_server/single echo-server.md",
     "42seoul/Webserv/함수/함수 정리.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
-    "42seoul/Webserv/생각 해볼 거리.md",
     "42seoul/Webserv/구조체/sockaddr_in.md",
     "42seoul/Webserv/Socket.md",
     "42seoul/Webserv/구조체",
@@ -260,7 +273,6 @@
     "HTTP/HTTP (HyperText Transfer Protocol).md",
     "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
     "Webserv/subject/Webserv 요구 사항.md",
-    "2. Weekly/2023-W37.md",
     "image file/IMG_72C8021A7DD0-1.jpeg",
     "image file/IMG_01425F8208AE-1.jpeg",
     "무제 파일.canvas",
