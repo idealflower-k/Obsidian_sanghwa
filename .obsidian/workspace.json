@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a155d62f34bdf6f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2023-09-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85f745113463b1c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB_note/HTTP/HTTP 메시지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9511b0ddb397e35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB_note/HTTP/HTTP 메시지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "14931477ec803a89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/echo-server.md",
+                "file": "42seoul/Webserv/함수 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b27576783a46d19c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42seoul/Webserv/함수 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/echo-server.md",
+                "file": "42seoul/Webserv/함수 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/echo-server.md",
+                "file": "42seoul/Webserv/함수 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/echo-server.md"
+                "file": "42seoul/Webserv/함수 정리.md"
               }
             }
           },
@@ -209,15 +185,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "14931477ec803a89",
+  "active": "b27576783a46d19c",
   "lastOpenFiles": [
-    "Tip/vscode에 clang-format 적용하는 법.md",
     "42seoul/Webserv/echo-server.md",
+    "42seoul/Webserv/pipe, socket.md",
+    "42seoul/Webserv/함수 정리.md",
+    "1. Daily/2023-09-15.md",
     "WEB_note/HTTP/HTTP 메시지.md",
+    "Tip/vscode에 clang-format 적용하는 법.md",
     "WEB_note/HTTP/URL과 리소스.md",
     "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
     "conflict-files-obsidian-git.md",
-    "1. Daily/2023-09-15.md",
     "image file/File (3).jpg",
     "image file/File (2).jpg",
     "WEB_note/HTTP/URN.md",
@@ -228,10 +206,8 @@
     "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "42seoul/Webserv/생각 해볼 거리.md",
-    "42seoul/Webserv/함수 정리.md",
     "42seoul/Webserv/webserv 회의 기록.md",
     "42seoul/Webserv/subject",
-    "42seoul/Webserv/pipe, socket.md",
     "42seoul/Webserv/event.md",
     "42seoul/Webserv",
     "42seoul",
