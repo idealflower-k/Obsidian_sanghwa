@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/IO multiplexing.md",
+                "file": "42seoul/Webserv/select, poll, epoll, kqueue.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/IO multiplexing.md",
+                "file": "42seoul/Webserv/select, poll, epoll, kqueue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/IO multiplexing.md",
+                "file": "42seoul/Webserv/select, poll, epoll, kqueue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/IO multiplexing.md"
+                "file": "42seoul/Webserv/select, poll, epoll, kqueue.md"
               }
             }
           },
@@ -235,9 +235,10 @@
   },
   "active": "9369cf56b1d1c213",
   "lastOpenFiles": [
-    "42seoul/Webserv/생각 해볼 거리.md",
-    "42seoul/Webserv/IO multiplexing.md",
+    "42seoul/Webserv/event.md",
     "42seoul/Webserv/select, poll, epoll, kqueue.md",
+    "42seoul/Webserv/IO multiplexing.md",
+    "42seoul/Webserv/생각 해볼 거리.md",
     "42seoul/Webserv/echo_server/single echo-server.md",
     "42seoul/Webserv/함수/함수 정리.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
@@ -264,7 +265,6 @@
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "42seoul/Webserv/webserv 회의 기록.md",
     "42seoul/Webserv/subject",
-    "42seoul/Webserv/event.md",
     "42seoul/Webserv",
     "42seoul",
     "1. Daily/2023-09-16.md",

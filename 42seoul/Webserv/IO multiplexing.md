@@ -16,3 +16,8 @@
 ## 5. 높은 반응성
 - 프로그램이 여러 I/O 채널에서 발생하는 이벤트를 동시에 모니터링 할 수 있다.
 - 이를 통해 더 빠르게 반응할 수 있으며, 특정 I/O 연산이 블로킹되는 동안 다른 I/O 연산을 계속 처리할 수 있다.
+
+
+---
+## 연결 노트
+- [[42seoul/Webserv/select, poll, epoll, kqueue|select, poll, epoll, kqueue]]
