@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -226,8 +227,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dafd7c6f2889c104",
+  "active": "8f44505cc8065038",
   "lastOpenFiles": [
+    "image file/성공 상태 코드.jpeg",
     "1. Daily/2023-09-18.md",
     "WEB_note/HTTP/URL과 리소스.md",
     "42seoul/Webserv/함수/kqueue.md",
@@ -265,7 +267,6 @@
     "42seoul",
     "Webserv/생각 해볼 거리.md",
     "HTTP/URL과 리소스.md",
-    "HTTP/HTTP (HyperText Transfer Protocol).md",
     "image file/IMG_72C8021A7DD0-1.jpeg",
     "image file/IMG_01425F8208AE-1.jpeg",
     "무제 파일.canvas",
