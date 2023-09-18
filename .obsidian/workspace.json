@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "42seoul/Webserv/select, poll, epoll, kqueue.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "42seoul/Webserv/select, poll, epoll, kqueue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "42seoul/Webserv/select, poll, epoll, kqueue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md"
+                "file": "42seoul/Webserv/select, poll, epoll, kqueue.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "42seoul/Webserv/select, poll, epoll, kqueue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,8 +263,8 @@
   },
   "active": "bcac8f98ca6941e1",
   "lastOpenFiles": [
-    "42seoul/Webserv/select, poll, epoll, kqueue.md",
     "42seoul/Webserv/함수/함수 정리.md",
+    "42seoul/Webserv/select, poll, epoll, kqueue.md",
     "kqueue.md",
     "42seoul/Webserv/echo_server/single echo-server.md",
     "42seoul/Webserv/IO multiplexing.md",
