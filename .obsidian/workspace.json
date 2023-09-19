@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "42seoul/Webserv/함수/kqueue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "42seoul/Webserv/함수/kqueue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md"
+                "file": "42seoul/Webserv/함수/kqueue.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "42seoul/Webserv/함수/kqueue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,15 +273,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "15b3d06d3eaddd59",
+  "active": "8fcd97695db3d719",
   "lastOpenFiles": [
+    "42seoul/Webserv/함수/함수 정리.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserv/함수/kqueue.md",
     "WEB_note/socket/Socket.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
     "42seoul/Webserv/echo_server/single echo-server.md",
-    "42seoul/Webserv/함수/함수 정리.md",
     "WEB_note/socket/Nagle 알고리즘.md",
     "WEB_note/socket/select, poll, epoll, kqueue.md",
     "WEB_note/socket",
