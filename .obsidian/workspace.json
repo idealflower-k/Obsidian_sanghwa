@@ -73,12 +73,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/함수/kqueue.md",
+                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/함수/kqueue.md",
+                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/함수/kqueue.md"
+                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/함수/kqueue.md",
+                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,18 +273,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9fc15287f2bf77c4",
+  "active": "0d90f751af504197",
   "lastOpenFiles": [
+    "42seoul/Webserv/subject/webserv_subject.pdf",
+    "42seoul/Webserv/함수/kqueue.md",
     "WEB_note/socket/Socket.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
     "42seoul/Webserv/echo_server/single echo-server.md",
-    "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/함수/함수 정리.md",
     "WEB_note/socket/Nagle 알고리즘.md",
     "WEB_note/socket/select, poll, epoll, kqueue.md",
     "WEB_note/socket",
     "1. Daily/2023-09-18.md",
-    "42seoul/Webserv/subject/webserv_subject.pdf",
     "WEB_note/HTTP/HTTP 메시지.md",
     "image file/요청 정보 헤더.jpeg",
     "image file/일반 헤더.jpeg",
@@ -316,7 +316,6 @@
     "42seoul/Webserv/subject",
     "42seoul/Webserv",
     "Webserv/생각 해볼 거리.md",
-    "HTTP/URL과 리소스.md",
     "image file/IMG_72C8021A7DD0-1.jpeg",
     "image file/IMG_01425F8208AE-1.jpeg",
     "무제 파일.canvas",
