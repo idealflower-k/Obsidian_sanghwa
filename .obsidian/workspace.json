@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf"
+                "file": "42seoul/Webserv/함수/함수 정리.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,8 +273,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d90f751af504197",
+  "active": "15b3d06d3eaddd59",
   "lastOpenFiles": [
+    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserv/함수/kqueue.md",
     "WEB_note/socket/Socket.md",
@@ -310,7 +311,6 @@
     "WEB_note/HTTP",
     "WEB_note",
     "42seoul/Webserv/subject/webserv_subject_note.md",
-    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "42seoul/Webserv/webserv 회의 기록.md",
     "42seoul/Webserv/subject",
