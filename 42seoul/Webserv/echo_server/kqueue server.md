@@ -16,3 +16,17 @@ https://hyeonski.tistory.com/m/9
 - SOCK_STREAM : TCP 사용
 - 0 : protocol 지정 type에 의해 암시적으로 지정 되므로 0사용
 
+## 소켓 옵션 설정
+>setsockopt(server_fd, SOL_SOCKET, SO_REUSEADDR, &opt, sizeof(opt));
+
+- SOL_SOCKET : 옵션의 수준을 나타낸다. SOL_SOCKET은 일반적인 소켓 옵션을 설정한다.
+- SO_REUSEADDR : 소켓 주소 재사용을 가능하게 한다.
+- &opt : 옵션의 값에 대한 포인터, opt = 1 로 설정되어 있으므로, 옵션을 활성화하겠다는 의미
+- sizeof(opt) : 옵션 값의 크기
+**SO_REUSEADDR 옵션**
+- 서버가 재시작된 경우에도 이전에 사용되었던 주소를 재사용할 수 있게 한다.
+- 일반적으로, 서버가 종료되면, 커널은 일정 시간동안 해당 주소를 "TIME_WAIT"상태로 유지한다.
+- TIME_WAIT 상태의 주소를 재사용할 수 있다. 서버가 빠르게 재시작될 수 있게 해준다.
+- **재사용 주소** : 소켓이 바인딩하는 IP주소와 포트의 조합을 의미한다.
+**좋은 옵션들**
+
