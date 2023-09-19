@@ -52,9 +52,21 @@
                 "file": "42seoul/Webserv/subject/webserv_subject.pdf"
               }
             }
+          },
+          {
+            "id": "15b3d06d3eaddd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+                "file": "42seoul/Webserv/함수/함수 정리.md"
               }
             }
           },
@@ -202,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,11 +262,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d90f751af504197",
+  "active": "15b3d06d3eaddd59",
   "lastOpenFiles": [
-    "42seoul/Webserv/echo_server/kqueue server.md",
-    "42seoul/Webserv/함수/kqueue.md",
     "1. Daily/2023-09-18.md",
+    "42seoul/Webserv/함수/kqueue.md",
+    "42seoul/Webserv/subject/webserv_subject.pdf",
+    "42seoul/Webserv/echo_server/kqueue server.md",
     "WEB_note/HTTP/HTTP 메시지.md",
     "image file/요청 정보 헤더.jpeg",
     "image file/일반 헤더.jpeg",
@@ -285,7 +298,6 @@
     "WEB_note",
     "42seoul/Webserv/subject/webserv_subject_note.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
-    "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "42seoul/Webserv/webserv 회의 기록.md",
     "42seoul/Webserv/subject",
