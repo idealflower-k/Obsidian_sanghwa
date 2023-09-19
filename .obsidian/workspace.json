@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d90f751af504197",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/echo_server/kqueue server.md",
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/echo_server/kqueue server.md",
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/echo_server/kqueue server.md"
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
               }
             }
           },
@@ -192,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/echo_server/kqueue server.md",
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,10 +250,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9fc15287f2bf77c4",
+  "active": "0d90f751af504197",
   "lastOpenFiles": [
-    "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
+    "42seoul/Webserv/함수/kqueue.md",
     "1. Daily/2023-09-18.md",
     "WEB_note/HTTP/HTTP 메시지.md",
     "image file/요청 정보 헤더.jpeg",
