@@ -28,5 +28,35 @@ https://hyeonski.tistory.com/m/9
 - 일반적으로, 서버가 종료되면, 커널은 일정 시간동안 해당 주소를 "TIME_WAIT"상태로 유지한다.
 - TIME_WAIT 상태의 주소를 재사용할 수 있다. 서버가 빠르게 재시작될 수 있게 해준다.
 - **재사용 주소** : 소켓이 바인딩하는 IP주소와 포트의 조합을 의미한다.
-**좋은 옵션들**
-
+## *좋은 옵션들*
+**SO_RCVBUF 와 SO_SNDBUF**
+- 소켓의 수신 버퍼와 전송 버퍼의 크기를 조절할 수 있게 해준다.
+- 버퍼 크기를 적절하게 조절하면 네트워크 통신의 성능을 향상시킬 수 있다.
+```cpp
+int buff_size = 4096;
+setsockopt(socket_fd, SOL_SOCKET, SO_RCVBUF, &buff_size, sizeof(buff_size));
+setsockopt(socket_fd, SOL_SOCKET, SO_SNDBUF, &buff_size, sizeof(buff_size));
+```
+**SO_KEEPALIVE**
+- 네트워크 연결이 여전히 유효한지 확인하기 위해 keep-alive 메시지를 사용할 것이지를 설정한다.
+```cpp
+int optval = 1;
+setsockopt(socket_fd, SOL_SOCKET, SO_KEEPALIVE, &optval, sizeof(optval));
+```
+**TCP_NODELAY**
+- Nagle알고리즘을 비활성화 한다.
+- 작은 패킷들이 빠르게 전송되도록 하여 지연시간을 줄일 수 있다.
+- TCP 수준에서 설정된다.
+```cpp
+int optval = 1;
+setsockopt(socket_fd, IPPROTO_TCP, TCP_NODELAY, &optval, sizeof(optval));
+```
+**SO_LINGER**
+- 소켓이 close 함수가 호출될 때 어떻게 동작할지를 정의한다.
+- 예를 들어, 데이터 전송이 완료되기 전에 소켓을 닫고 싶지 않은 경우에 사용할 수 있다.
+```cpp
+struct linger lin;
+lin.l_onoff = 1;
+lin.l_linger = 10;
+setsockopt(socket_fd, SOL_SOCKET, SO_LINGER, &lin, sizeof(lin));
+```
