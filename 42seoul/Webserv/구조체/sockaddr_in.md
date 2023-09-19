@@ -41,4 +41,4 @@ struct sockaddr {
 
 ---
 ## 연결 노트
-- [[42seoul/Webserv/Socket|Socket]]
+- [[WEB_note/socket/Socket|Socket]]

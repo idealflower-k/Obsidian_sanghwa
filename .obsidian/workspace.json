@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "55f9b80182266a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB_note/socket/Nagle 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0d90f751af504197",
             "type": "leaf",
             "state": {
@@ -265,7 +277,11 @@
   "active": "9fc15287f2bf77c4",
   "lastOpenFiles": [
     "42seoul/Webserv/함수/함수 정리.md",
+    "WEB_note/socket/Nagle 알고리즘.md",
+    "WEB_note/socket/select, poll, epoll, kqueue.md",
+    "WEB_note/socket/Socket.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
+    "WEB_note/socket",
     "1. Daily/2023-09-18.md",
     "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
@@ -275,12 +291,10 @@
     "image file/서버 에러 상테 코드.jpeg",
     "image file/성공 상태 코드.jpeg",
     "WEB_note/HTTP/URL과 리소스.md",
-    "42seoul/Webserv/IO multiplexing.md",
-    "42seoul/Webserv/select, poll, epoll, kqueue.md",
+    "WEB_note/socket/IO multiplexing.md",
     "1. Daily/2023-09-16.md",
     "1. Daily/2023-09-15.md",
     "42seoul/Webserv/echo_server/single echo-server.md",
-    "42seoul/Webserv/Socket.md",
     "42seoul/Webserv/생각 해볼 거리.md",
     "42seoul/Webserv/event.md",
     "42seoul/Webserv/구조체/sockaddr_in.md",
@@ -302,7 +316,6 @@
     "42seoul/Webserv/webserv 회의 기록.md",
     "42seoul/Webserv/subject",
     "42seoul/Webserv",
-    "42seoul",
     "Webserv/생각 해볼 거리.md",
     "HTTP/URL과 리소스.md",
     "image file/IMG_72C8021A7DD0-1.jpeg",

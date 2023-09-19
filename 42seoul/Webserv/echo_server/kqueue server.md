@@ -44,7 +44,7 @@ int optval = 1;
 setsockopt(socket_fd, SOL_SOCKET, SO_KEEPALIVE, &optval, sizeof(optval));
 ```
 **TCP_NODELAY**
-- Nagle알고리즘을 비활성화 한다.
+- Nagle알고리즘을 비활성화 한다. [[WEB_note/socket/Nagle 알고리즘|Nagle 알고리즘]]
 - 작은 패킷들이 빠르게 전송되도록 하여 지연시간을 줄일 수 있다.
 - TCP 수준에서 설정된다.
 ```cpp
@@ -56,7 +56,12 @@ setsockopt(socket_fd, IPPROTO_TCP, TCP_NODELAY, &optval, sizeof(optval));
 - 예를 들어, 데이터 전송이 완료되기 전에 소켓을 닫고 싶지 않은 경우에 사용할 수 있다.
 ```cpp
 struct linger lin;
-lin.l_onoff = 1;
-lin.l_linger = 10;
+lin.l_onoff = 1; // 옵션의 활성화 여부
+lin.l_linger = 10; // 소켓이 닫힐 때까지 대기할 시간(초) 설정
 setsockopt(socket_fd, SOL_SOCKET, SO_LINGER, &lin, sizeof(lin));
+```
+- 소켓을 닫을 때, 아직 전송되지 않은 데이터가 있으면 지정된 시간(초)동안 그 데이터를 전송하려고 시도한다.
+- 0초 설정 : 소켓을 닫을 때 연결을 강제로 리셋하고, 보류 중인 데이터를 모두 폐기한다.
+## 서버 주소 바인딩 및 리스닝
+```cpp
 ```

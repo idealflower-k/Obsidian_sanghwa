@@ -20,4 +20,4 @@
 
 ---
 ## 연결 노트
-- [[42seoul/Webserv/select, poll, epoll, kqueue|select, poll, epoll, kqueue]]
+- [[WEB_note/socket/select, poll, epoll, kqueue|select, poll, epoll, kqueue]]
