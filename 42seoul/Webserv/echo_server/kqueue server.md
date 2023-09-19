@@ -64,4 +64,29 @@ setsockopt(socket_fd, SOL_SOCKET, SO_LINGER, &lin, sizeof(lin));
 - 0초 설정 : 소켓을 닫을 때 연결을 강제로 리셋하고, 보류 중인 데이터를 모두 폐기한다.
 ## 서버 주소 바인딩 및 리스닝
 ```cpp
+sockaddr_in server_addr;
+
+std::memset(&server_addr, 0, sizeof(server_addr));
+
+server_addr.sin_family = AF_INET;
+server_addr.sin_addr.s_addr = INADDR_ANY;
+server_addr.sin_port = htons(8080);
+
+if (bind(listen_fd, (struct sockaddr*)&server_addr, sizeof(server_addr)) < 0) {
+	std::cerr << "bind failed: " << strerror(errno) << "\n";
+	close(listen_fd);
+	return -1;
+}
+
+if (listen(listen_fd, 5) < 0) {
+	std::cerr << "listen failed: " << strerror(errno) << "\n";
+	close(listen_fd);
+	return -1;
+}
 ```
+## kqueue 생성
+>int kq = kqueue();
+>struct kevent evSet;
+
+## event set
+>EV_SET(&evSet, server_fd, EVFILT_READ, EV_ADD | EV_ENABLE, 0, 0, NULL);
