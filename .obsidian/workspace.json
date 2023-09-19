@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "15b3d06d3eaddd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9fc15287f2bf77c4",
             "type": "leaf",
             "state": {
@@ -52,21 +64,9 @@
                 "file": "42seoul/Webserv/subject/webserv_subject.pdf"
               }
             }
-          },
-          {
-            "id": "15b3d06d3eaddd59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -265,10 +265,10 @@
   "active": "9fc15287f2bf77c4",
   "lastOpenFiles": [
     "42seoul/Webserv/함수/함수 정리.md",
+    "42seoul/Webserv/echo_server/kqueue server.md",
     "1. Daily/2023-09-18.md",
     "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
-    "42seoul/Webserv/echo_server/kqueue server.md",
     "WEB_note/HTTP/HTTP 메시지.md",
     "image file/요청 정보 헤더.jpeg",
     "image file/일반 헤더.jpeg",

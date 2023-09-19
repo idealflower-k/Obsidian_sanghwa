@@ -8,3 +8,11 @@ https://hyeonski.tistory.com/m/9
 1. kqueue()로 kqueue를 할당
 2. 이벤트의 변화(등록, 삭제 등)를 kevent()에 전달
 3. kevent()가 return한 처리 가능 event들을 받아 알맞게 처리
+
+# 코드 흐름 / 분석
+## 소켓 생성
+>int server_socket = socket(AF_INET, SOCK_STREAM, 0);
+- AF_INET : IPv4 사용
+- SOCK_STREAM : TCP 사용
+- 0 : protocol 지정 type에 의해 암시적으로 지정 되므로 0사용
+
