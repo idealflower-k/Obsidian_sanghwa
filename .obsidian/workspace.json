@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "42seoul/Webserv/echo_server/kqueue server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "42seoul/Webserv/echo_server/kqueue server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md"
+                "file": "42seoul/Webserv/echo_server/kqueue server.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "42seoul/Webserv/echo_server/kqueue server.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,8 +262,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "15b3d06d3eaddd59",
+  "active": "9fc15287f2bf77c4",
   "lastOpenFiles": [
+    "42seoul/Webserv/함수/함수 정리.md",
     "1. Daily/2023-09-18.md",
     "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
@@ -275,7 +276,6 @@
     "image file/성공 상태 코드.jpeg",
     "WEB_note/HTTP/URL과 리소스.md",
     "42seoul/Webserv/IO multiplexing.md",
-    "42seoul/Webserv/함수/함수 정리.md",
     "42seoul/Webserv/select, poll, epoll, kqueue.md",
     "1. Daily/2023-09-16.md",
     "1. Daily/2023-09-15.md",
