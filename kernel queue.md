@@ -46,3 +46,12 @@ EV_SET(&events[1], sk, EVFILT_WRITE, EV_ADD | EV_CLEAR, 0, 0, obj);
 kevnet(kq, events, 2, NULL, 0, NULL);
 ```
 - 4, 5번째 변수는 event_list와 list의 수 이다. NULL, 0으로 설정해 이벤트를 받지 않아서 kqueue는 events에 에러가 없이 성공하면 1을 반환한다.
+
+## kevent flags EV_EOF 확인
+- 발생한 이벤트의 flags를 확인해서 커넥션이 종료 되었는지 확인을 먼저한다.
+- fflags를 이용해서 자세한 이유를 확인할 수 있다.
+```cpp
+if (event.flags & EV_EOF)
+	// eof 처리
+```
+
