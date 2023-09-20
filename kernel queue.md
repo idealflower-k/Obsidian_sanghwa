@@ -64,4 +64,4 @@ if (event.flags & EV_EOF)
 ## 언제 READ event를 그만 두나
 - EV_EOF 플래그가 설정된 event가 생기면 close();
 - 타임아웃 로직을 구현 했을 경우 서버가 close()
-- 
+- EV_DELETE는 소켓은 유지하며 이벤트만 삭제
