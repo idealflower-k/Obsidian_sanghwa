@@ -37,3 +37,12 @@ Kernel event queue = KQ
 ![[image file/스크린샷 2023-09-20 22.49.30.png]]
 - 시그널 플래그는 사용자 앱이 함수를 호출하여 KQ로부터 이벤트를 수신한 후 이 세 가지 시그널 이벤트의 배열을 수신하여 처리할 수 있다는 것을 의미한다.
 - 그런 다음 커널은 필요한 경우가 아니면 동일한 신호를 반복해서 전달하지 않도록 시그널링된 플래그를 지울 수 있습니다
+
+## Kevent 등록 성공 확인 방법
+```cpp
+struct kevent evnets[2];
+EV_SET(&events[0], sk, EVFILT_READ, EV_ADD | EV_CLEAR, 0, 0, obj);
+EV_SET(&events[1], sk, EVFILT_WRITE, EV_ADD | EV_CLEAR, 0, 0, obj);
+kevnet(kq, events, 2, NULL, 0, NULL);
+```
+- 4, 5번째 변수는 event_list와 list의 수 이다. NULL, 0으로 설정해 이벤트를 받지 않아서 kqueue는 events에 에러가 없이 성공하면 1을 반환한다.
