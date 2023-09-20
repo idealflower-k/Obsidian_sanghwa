@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2cf427c9e50d4f3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
-              }
-            }
-          },
-          {
-            "id": "35e7903cd1eda198",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ddcc502f97e71c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42seoul/Webserv/생각 해볼 거리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4501f9d4deb904af",
             "type": "leaf",
             "state": {
@@ -48,9 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e047f24c734d7ee4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8411082fa808d914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kernel queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/kqueue 튜토리얼.md",
+                "file": "kernel queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/kqueue 튜토리얼.md",
+                "file": "kernel queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/kqueue 튜토리얼.md"
+                "file": "kernel queue.md"
               }
             }
           },
@@ -183,6 +173,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "fbce2573da27a9f7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/kqueue 튜토리얼.md",
+                "file": "kernel queue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,13 +245,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4501f9d4deb904af",
+  "active": "8411082fa808d914",
   "lastOpenFiles": [
-    "42seoul/Webserv/생각 해볼 거리.md",
+    "kernel queue.md",
     "42seoul/Webserv/kqueue 튜토리얼.md",
+    "42seoul/Webserv/subject/webserv_subject.pdf",
+    "42seoul/Webserv/생각 해볼 거리.md",
     "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/커널 (Kernel).md",
-    "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "42seoul/Webserv/subject/webserv_subject_note.md",
     "1. Daily/2023-09-18.md",
@@ -286,7 +287,6 @@
     "WEB_note/HTTP",
     "WEB_note",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
-    "42seoul/Webserv/webserv 회의 기록.md",
     "42seoul/Webserv/subject",
     "42seoul/Webserv",
     "image file/IMG_72C8021A7DD0-1.jpeg",
