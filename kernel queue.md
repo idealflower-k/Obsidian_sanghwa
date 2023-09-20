@@ -3,6 +3,7 @@ tags:
   - kernel
   - CS
 ---
+https://habr.com/en/articles/600123/
 # What is kernel queue?
 Kernel event queue = KQ
 
@@ -65,3 +66,9 @@ if (event.flags & EV_EOF)
 - EV_EOF 플래그가 설정된 event가 생기면 close();
 - 타임아웃 로직을 구현 했을 경우 서버가 close()
 - EV_DELETE는 소켓은 유지하며 이벤트만 삭제
+- 
+
+## 하나의 fd에 대해서 read, wirte 같은 여러 이벤트가 동시에 발생
+- 앞선 이벤트가 실패하면 뒤에 이벤트에서 잘못된 접근을 하지 않게 처리가 필요
+- #### Processing stale cached events 참고
+- 
