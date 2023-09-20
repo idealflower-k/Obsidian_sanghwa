@@ -36,9 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4501f9d4deb904af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42seoul/Webserv/kqueue 튜토리얼.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/생각 해볼 거리.md",
+                "file": "42seoul/Webserv/kqueue 튜토리얼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/생각 해볼 거리.md",
+                "file": "42seoul/Webserv/kqueue 튜토리얼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/생각 해볼 거리.md"
+                "file": "42seoul/Webserv/kqueue 튜토리얼.md"
               }
             }
           },
@@ -185,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/생각 해볼 거리.md",
+                "file": "42seoul/Webserv/kqueue 튜토리얼.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,8 +245,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ddcc502f97e71c97",
+  "active": "4501f9d4deb904af",
   "lastOpenFiles": [
+    "42seoul/Webserv/생각 해볼 거리.md",
+    "42seoul/Webserv/kqueue 튜토리얼.md",
     "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/커널 (Kernel).md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
@@ -257,7 +271,6 @@
     "WEB_note/socket/IO multiplexing.md",
     "1. Daily/2023-09-16.md",
     "1. Daily/2023-09-15.md",
-    "42seoul/Webserv/생각 해볼 거리.md",
     "42seoul/Webserv/event.md",
     "42seoul/Webserv/구조체/sockaddr_in.md",
     "42seoul/Webserv/구조체",
@@ -276,7 +289,6 @@
     "42seoul/Webserv/webserv 회의 기록.md",
     "42seoul/Webserv/subject",
     "42seoul/Webserv",
-    "Webserv/생각 해볼 거리.md",
     "image file/IMG_72C8021A7DD0-1.jpeg",
     "image file/IMG_01425F8208AE-1.jpeg",
     "무제 파일.canvas",
