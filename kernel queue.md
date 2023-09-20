@@ -47,6 +47,10 @@ kevnet(kq, events, 2, NULL, 0, NULL);
 ```
 - 4, 5번째 변수는 event_list와 list의 수 이다. NULL, 0으로 설정해 이벤트를 받지 않아서 kqueue는 events에 에러가 없이 성공하면 1을 반환한다.
 
+## EV_CLEAR 플래그
+- 한 번 이벤트가 트리거되고 해당 이벤트에 대한 알림이 반환된 후, 동일한 이벤트에 대한 알림은 데이터가 완전히 소진되기 전까지 다시 발생하지 않는다.
+- 예를 들어, READ 이벤트의 경우 소켓에서 모든 데이터가 읽혀질 때까지 (즉, recv() 호출이 EAGAIN 오류로 반환될 때까지) 다시 READ 이벤트 알림이 발생하지 않는다.
+- 같은 이벤트에 대해 계속 반복적으로 알림을 받는 것을 방지하므로, 전체 시스템의 성능 향상에 기여한다.
 ## kevent flags EV_EOF 확인
 - 발생한 이벤트의 flags를 확인해서 커넥션이 종료 되었는지 확인을 먼저한다.
 - fflags를 이용해서 자세한 이유를 확인할 수 있다.
@@ -54,4 +58,10 @@ kevnet(kq, events, 2, NULL, 0, NULL);
 if (event.flags & EV_EOF)
 	// eof 처리
 ```
-
+## kevent EVFILT_READ data
+- read 이벤트 객체의 data에서 read해야할 바이트 수를 얻을 수 있다.
+- 버퍼 오버플로우에 주의
+## 언제 READ event를 그만 두나
+- EV_EOF 플래그가 설정된 event가 생기면 close();
+- 타임아웃 로직을 구현 했을 경우 서버가 close()
+- 
