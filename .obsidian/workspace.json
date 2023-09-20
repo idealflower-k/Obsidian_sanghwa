@@ -11,8 +11,10 @@
             "id": "a2cf427c9e50d4f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+              }
             }
           }
         ]
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+              }
             }
           },
           {
@@ -158,6 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,12 +214,13 @@
   },
   "active": "a2cf427c9e50d4f3",
   "lastOpenFiles": [
+    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+    "42seoul/Webserv/subject/webserv_subject_note.md",
+    "42seoul/Webserv/subject/webserv_subject.pdf",
     "1. Daily/2023-09-18.md",
     "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/함수/함수 정리.md",
     "WEB_note/socket/Nagle 알고리즘.md",
-    "42seoul/Webserv/subject/webserv_subject.pdf",
-    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "WEB_note/socket/Socket.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
     "42seoul/Webserv/echo_server/single echo-server.md",
@@ -242,7 +250,6 @@
     "WEB_note/HTTP/URN.md",
     "WEB_note/HTTP",
     "WEB_note",
-    "42seoul/Webserv/subject/webserv_subject_note.md",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "42seoul/Webserv/webserv 회의 기록.md",
     "42seoul/Webserv/subject",
