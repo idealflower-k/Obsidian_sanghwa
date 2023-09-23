@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kernel queue.md",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fcntl(",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kernel queue.md",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kernel queue.md",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kernel queue.md"
+                "file": "42seoul/Webserv/함수/함수 정리.md"
               }
             }
           },
@@ -197,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "kernel queue.md",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,22 +246,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8411082fa808d914",
+  "active": "130b660b1c6b38b6",
   "lastOpenFiles": [
-    "image file/스크린샷 2023-09-20 22.49.30.png",
-    "kernel queue.md",
+    "42seoul/Webserv/subject/webserv_subject_note.md",
+    "42seoul/Webserv/함수/함수 정리.md",
+    "42seoul/Webserv/echo_server/kqueue server.md",
     "42seoul/Webserv/kqueue 튜토리얼.md",
-    "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserv/생각 해볼 거리.md",
     "42seoul/Webserv/함수/kqueue.md",
+    "kernel queue.md",
     "42seoul/Webserv/커널 (Kernel).md",
+    "image file/스크린샷 2023-09-20 22.49.30.png",
+    "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
-    "42seoul/Webserv/subject/webserv_subject_note.md",
     "1. Daily/2023-09-18.md",
-    "42seoul/Webserv/함수/함수 정리.md",
     "WEB_note/socket/Nagle 알고리즘.md",
     "WEB_note/socket/Socket.md",
-    "42seoul/Webserv/echo_server/kqueue server.md",
     "42seoul/Webserv/echo_server/single echo-server.md",
     "WEB_note/socket/select, poll, epoll, kqueue.md",
     "WEB_note/socket",
@@ -292,7 +293,6 @@
     "image file/IMG_72C8021A7DD0-1.jpeg",
     "image file/IMG_01425F8208AE-1.jpeg",
     "무제 파일.canvas",
-    "image file/Specific Requirement.png",
-    "image file/Requirement Specification 1.png"
+    "image file/Specific Requirement.png"
   ]
 }
