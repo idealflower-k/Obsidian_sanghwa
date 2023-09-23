@@ -38,9 +38,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "124d0c88e5e57103",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0cb63b9ef289419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md"
+                "file": "workflow.md"
               }
             }
           },
@@ -198,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/함수/함수 정리.md",
+                "file": "workflow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,12 +265,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "130b660b1c6b38b6",
+  "active": "a0cb63b9ef289419",
   "lastOpenFiles": [
+    "workflow.md",
+    "42seoul/Webserv/kqueue 튜토리얼.md",
     "42seoul/Webserv/subject/webserv_subject_note.md",
     "42seoul/Webserv/함수/함수 정리.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
-    "42seoul/Webserv/kqueue 튜토리얼.md",
     "42seoul/Webserv/생각 해볼 거리.md",
     "42seoul/Webserv/함수/kqueue.md",
     "kernel queue.md",
