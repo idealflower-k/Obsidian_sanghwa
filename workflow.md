@@ -1,4 +1,4 @@
-
+# Workflow
 config 파일을 받아서 실행
 -> config FILE parsing
 
@@ -11,4 +11,25 @@ config 파일을 받아서 실행
 
 클라이언트 req 보냄. 
 1. req parsing (검증)
-2. 서버가 req에 대한 처리.(process)
+2. 서버가 req에 대한 처리.(process) etc). CGI, static assets
+3. 서버가 res를 생성
+4. write이벤트 등록 
+5. 소켓에 write
+
+keep-alive vs close
+- https://etloveguitar.tistory.com/137
+
+
+## Parser
+
+## Request
+
+## Response
+
+## Logger
+
+## CGI
+
+## Connection
+
+
