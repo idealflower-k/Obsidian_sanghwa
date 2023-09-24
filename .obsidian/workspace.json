@@ -4,67 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b85daf04efc670fb",
+        "id": "6ff93569d4accff1",
         "type": "tabs",
         "children": [
           {
-            "id": "c46a15578bd3c3a9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
-              }
-            }
-          },
-          {
-            "id": "8de521656bd3ff5a",
+            "id": "f31f310e96eec922",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/subject/Webserv 요구 사항.md",
+                "file": "42seoul/Webserv/class/Config.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "759ca487919859a1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf"
-              }
-            }
-          },
-          {
-            "id": "c36a94cbdd739f6a",
+            "id": "d0d7a4125e2c3a1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB_note/CGI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ce785a9b7135ca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42seoul/Webserv/config.md",
+                "file": "42seoul/Webserv/class/Server.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -139,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/config.md",
+                "file": "42seoul/Webserv/class/Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/config.md",
+                "file": "42seoul/Webserv/class/Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +146,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/config.md"
+                "file": "42seoul/Webserv/class/Server.md"
+              }
+            }
+          },
+          {
+            "id": "483d52dd446f6fcf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -196,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/config.md",
+                "file": "42seoul/Webserv/class/Server.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,8 +195,8 @@
                   "centerStrength": 0.894652862814947,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 293,
-                  "scale": 8,
+                  "linkDistance": 30,
+                  "scale": 2.8882055426002973,
                   "close": true
                 }
               }
@@ -257,12 +234,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ce785a9b7135ca3",
+  "active": "d0d7a4125e2c3a1a",
   "lastOpenFiles": [
+    "42seoul/Webserv/class/Server.md",
+    "42seoul/Webserv/class/Config.md",
+    "42seoul/Webserv/class",
     "42seoul/Webserv/subject/webserv_subject.pdf",
-    "WEB_note/CGI.md",
-    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
+    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+    "WEB_note/CGI.md",
     "42seoul/Webserv/config.md",
     "1. Daily/2023-09-30.md",
     "1. Daily/2023-09-15.md",
@@ -295,7 +275,6 @@
     "42seoul/Webserv/구조체/sockaddr_in.md",
     "42seoul/Webserv/구조체",
     "42seoul/Webserv/kqueue 튜토리얼.md",
-    "42seoul/Webserv/echo_server/single echo-server.md",
     "42seoul/Webserv/echo_server",
     "image file/File (3).jpg",
     "image file/URI.jpg",
@@ -303,7 +282,6 @@
     "image file/Requirement Specification2.png",
     "무제 폴더",
     "WEB_note",
-    "42seoul",
     "무제 파일.canvas"
   ]
 }
