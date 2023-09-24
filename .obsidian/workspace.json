@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/config.md",
+                "file": "42seoul/Webserv/config 명세.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f1e7743e90dd4806",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
               }
             }
           }
@@ -90,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/config.md",
+                "file": "42seoul/Webserv/config 명세.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/config.md",
+                "file": "42seoul/Webserv/config 명세.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/config.md"
+                "file": "42seoul/Webserv/config 명세.md"
               }
             }
           },
@@ -173,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/config.md",
+                "file": "42seoul/Webserv/config 명세.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,14 +248,14 @@
   },
   "active": "d0d7a4125e2c3a1a",
   "lastOpenFiles": [
-    "42seoul/Webserv/class/Server.md",
-    "42seoul/Webserv/class/Config.md",
-    "42seoul/Webserv/class",
     "42seoul/Webserv/subject/webserv_subject.pdf",
+    "42seoul/Webserv/config 명세.md",
+    "42seoul/Webserv/class/Config.md",
+    "42seoul/Webserv/class/Server.md",
+    "42seoul/Webserv/class",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "WEB_note/CGI.md",
-    "42seoul/Webserv/config.md",
     "1. Daily/2023-09-30.md",
     "1. Daily/2023-09-15.md",
     "1. Daily/2023-09-16.md",
@@ -274,7 +286,6 @@
     "42seoul/Webserv/커널 (Kernel).md",
     "42seoul/Webserv/구조체/sockaddr_in.md",
     "42seoul/Webserv/구조체",
-    "42seoul/Webserv/kqueue 튜토리얼.md",
     "42seoul/Webserv/echo_server",
     "image file/File (3).jpg",
     "image file/URI.jpg",

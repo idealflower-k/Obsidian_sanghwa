@@ -327,9 +327,6 @@ arduinoCopy code
 
 ```
 
-​
-
-​
 
 - Execute CGI based on certain file extension (for example .php).
 
@@ -347,10 +344,6 @@ server {
 
 ```
 
-​
-
-​
-
 - Make the route able to accept uploaded files and configure where they should be saved.
 
 ```nginx
@@ -366,8 +359,6 @@ server {
 }  
 
 ```
-
-​
 
 > 나머지는 CGI 구현시 요구사항을 적어 놓음. 
 
