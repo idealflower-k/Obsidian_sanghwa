@@ -50,8 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ce785a9b7135ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42seoul/Webserv/config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "42seoul/Webserv/config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "42seoul/Webserv/config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+                "file": "42seoul/Webserv/config.md"
               }
             }
           }
@@ -183,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "42seoul/Webserv/config.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,18 +257,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c46a15578bd3c3a9",
+  "active": "5ce785a9b7135ca3",
   "lastOpenFiles": [
-    "42seoul/Webserv/config.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
+    "WEB_note/CGI.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+    "42seoul/Webserv/subject/Webserv 요구 사항.md",
+    "42seoul/Webserv/config.md",
     "1. Daily/2023-09-30.md",
     "1. Daily/2023-09-15.md",
     "1. Daily/2023-09-16.md",
     "1. Daily/2023-09-23.md",
     "1. Daily/2023-09-18.md",
-    "42seoul/Webserv/subject/Webserv 요구 사항.md",
-    "WEB_note/CGI.md",
     "42seoul/Webserve",
     "무제 파일.md",
     "image file/transaction.jpg",
