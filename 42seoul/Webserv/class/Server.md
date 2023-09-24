@@ -9,5 +9,9 @@ tags:
 ---
 # Server
 ## properties
+- server_fd : int;
+- server_addr : sockaddr_in;
+- clients : map<int, Client*>;
+- 
 
 ## method
