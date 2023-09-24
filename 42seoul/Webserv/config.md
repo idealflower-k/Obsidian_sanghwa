@@ -41,7 +41,7 @@ CGI 기반으로 특정 파일 확장자 (예: .php)에 따라 실행하세요.
 ```conf
 server {
 	location /.php {
-		cgi_pass 127.0.0.1:1025;
+		cgi_path "script/dir";
 	}
 
 	location /upload {
