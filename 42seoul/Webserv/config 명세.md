@@ -1,4 +1,3 @@
-#webserv 
 # 과제 요구사항
 - **Choose the port and host of each ’server’**
 - **Setup the server_names or not.**
@@ -336,7 +335,7 @@ server {
 
 	location /.php {  
 
-		cgi_pass "script/dir";  
+		cgi_pass "path/to/cgi/dir";  
 
 	}
 
@@ -350,9 +349,9 @@ server {
 
 server {  
 
-	location /upload {  
-
-		directory : "path/to/updoad/dir",  
+	location /upload {
+	
+		directory "path/to/upload/dir";
 
 	}
 
