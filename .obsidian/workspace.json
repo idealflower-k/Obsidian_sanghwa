@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "42seoul/Webserv/config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "42seoul/Webserv/config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+                "file": "42seoul/Webserv/config.md"
               }
             }
           }
@@ -196,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "42seoul/Webserv/config.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,17 +256,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c46a15578bd3c3a9",
+  "active": "5e257d75a53db9b3",
   "lastOpenFiles": [
-    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
-    "42seoul/Webserv/subject/Webserv 요구 사항.md",
+    "1. Daily/2023-09-30.md",
+    "1. Daily/2023-09-15.md",
+    "1. Daily/2023-09-16.md",
+    "1. Daily/2023-09-23.md",
+    "1. Daily/2023-09-18.md",
     "42seoul/Webserv/config.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
+    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+    "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "WEB_note/CGI.md",
     "42seoul/Webserve",
     "무제 파일.md",
     "image file/transaction.jpg",
-    "1. Daily/2023-09-16.md",
     "WEB_note/HTTP/URL과 리소스.md",
     "kernel queue.md",
     "workflow.md",
@@ -294,9 +297,6 @@
     "42seoul/Webserv/echo_server/single echo-server.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
     "42seoul/Webserv/echo_server",
-    "1. Daily/2023-09-18.md",
-    "WEB_note/HTTP/URN.md",
-    "1. Daily/2023-09-15.md",
     "image file/File (3).jpg",
     "image file/URI.jpg",
     "image file/Specific Requirement.png",
