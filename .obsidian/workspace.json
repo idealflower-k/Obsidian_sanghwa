@@ -37,9 +37,53 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f762809ee6dcac0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf"
+              }
+            }
+          },
+          {
+            "id": "e1f32ea867205aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "WEB_note/HTTP/HTTP 메시지.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1c97debabf1f25e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "612a973c9c1649e8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "42seoul/Webserv/subject/webserv_subject_ko.pdf"
               }
             }
           },
@@ -54,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB_note/HTTP/HTTP 메시지.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB_note/HTTP/HTTP 메시지.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB_note/HTTP/HTTP 메시지.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -185,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WEB_note/HTTP/HTTP 메시지.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,22 +290,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bff0b374f6a21b5a",
+  "active": "1c97debabf1f25e0",
   "lastOpenFiles": [
+    "WEB_note/HTTP/HTTP 메시지.md",
+    "conflict-files-obsidian-git.md",
+    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+    "42seoul/Webserv/subject/webserv_subject.pdf",
     "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
+    "workflow.md",
+    "kernel queue.md",
+    "image file/일반 헤더.jpeg",
+    "image file/요청 정보 헤더.jpeg",
+    "image file/스크린샷 2023-09-20 22.49.30.png",
+    "image file/성공 상태 코드.jpeg",
+    "image file/서버 에러 상테 코드.jpeg",
+    "WEB_note/socket/select, poll, epoll, kqueue.md",
+    "WEB_note/socket/Socket.md",
+    "WEB_note/socket/Nagle 알고리즘.md",
+    "WEB_note/socket/IO multiplexing.md",
+    "WEB_note/socket",
+    "42seoul/Webserv/함수/함수 정리.md",
+    "42seoul/Webserv/함수/kqueue.md",
+    "42seoul/Webserv/함수",
+    "42seoul/Webserv/커널 (Kernel).md",
+    "42seoul/Webserv/구조체/sockaddr_in.md",
+    "42seoul/Webserv/구조체",
+    "42seoul/Webserv/kqueue 튜토리얼.md",
+    "42seoul/Webserv/echo_server/single echo-server.md",
+    "42seoul/Webserv/echo_server/kqueue server.md",
+    "42seoul/Webserv/echo_server",
+    "1. Daily/2023-09-18.md",
     "WEB_note/HTTP/URL과 리소스.md",
     "WEB_note/HTTP/URN.md",
-    "WEB_note/HTTP/HTTP 메시지.md",
     "1. Daily/2023-09-15.md",
     "image file/File (3).jpg",
     "image file/transaction.jpg",
     "image file/URI.jpg",
     "image file/Specific Requirement.png",
     "image file/Requirement Specification2.png",
-    "image file/Requirement Specification 1.png",
-    "image file/IMG_01425F8208AE-1.jpeg",
-    "image file/IMG_72C8021A7DD0-1.jpeg",
-    "image file/File (2).jpg",
     "그래프.md",
     "무제 폴더",
     "WEB_note",
@@ -270,29 +336,7 @@
     "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "2. Weekly/2023-W37.md",
-    "42seoul/Webserv/subject/webserv_subject_note.md",
-    "42seoul/Webserv/생각 해볼 거리.md",
-    "HTTP/IMG_01425F8208AE-1.md",
-    "Tip/vscode에 clang-format 적용하는 법.md",
     "Tip",
-    "무제 파일.canvas",
-    "2023-09-15.md",
-    "42seoul/Webserv/webserv 회의 기록.md",
-    "1. Daily/2023-10-13.md",
-    "1. Daily/2023-09-30.md",
-    "Webserv/무제 파일.md",
-    "42seoul/Webserv/함수 정리.md",
-    "42seoul/Webserv/pipe, socket.md",
-    "42seoul/Webserv/event.md",
-    "1. Daily/2023-09-23.md",
-    "Webserv/webserv 요구사항 v.2.md",
-    "Webserv/subject/subject.md",
-    "42seoul/Webserv/subject/webserv_subject.pdf",
-    "image file/Requirement Specification.png",
-    "CreateDocument",
-    "Webserv/context.mdb",
-    "Context/spacesLastSync.log",
-    "Context",
-    "42seoul/Webserv/subject/webserv_subject_ko.pdf"
+    "무제 파일.canvas"
   ]
 }
