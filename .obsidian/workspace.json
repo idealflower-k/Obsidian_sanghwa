@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB_note/CGI.md",
+                "file": "42seoul/Webserv/config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB_note/CGI.md",
+                "file": "42seoul/Webserv/config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB_note/CGI.md"
+                "file": "42seoul/Webserv/config.md"
               }
             }
           }
@@ -196,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WEB_note/CGI.md",
+                "file": "42seoul/Webserv/config.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,12 +256,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c36a94cbdd739f6a",
+  "active": "5e257d75a53db9b3",
   "lastOpenFiles": [
+    "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "WEB_note/CGI.md",
     "42seoul/Webserv/config.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
-    "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserve",
     "무제 파일.md",
