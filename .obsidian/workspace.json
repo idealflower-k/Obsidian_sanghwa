@@ -35,14 +35,16 @@
             "id": "f1e7743e90dd4806",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+                "file": "42seoul/Webserv/echo_server/single echo-server.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/class/Config.md",
+                "file": "42seoul/Webserv/echo_server/single echo-server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/class/Config.md",
+                "file": "42seoul/Webserv/echo_server/single echo-server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/class/Config.md"
+                "file": "42seoul/Webserv/echo_server/single echo-server.md"
               }
             }
           },
@@ -183,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/class/Config.md",
+                "file": "42seoul/Webserv/echo_server/single echo-server.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,11 +247,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8f44505cc8065038",
+  "active": "f1e7743e90dd4806",
   "lastOpenFiles": [
+    "42seoul/Webserv/echo_server/kqueue server.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
-    "42seoul/Webserv/config 명세.md",
     "42seoul/Webserv/class/Config.md",
+    "42seoul/Webserv/config 명세.md",
     "42seoul/Webserv/class/Server.md",
     "42seoul/Webserv/class",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
