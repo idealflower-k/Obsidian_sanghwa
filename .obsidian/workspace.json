@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c170015d0491fb2f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,7 +257,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f1e7743e90dd4806",
+  "active": "c170015d0491fb2f",
   "lastOpenFiles": [
     "42seoul/Webserv/echo_server/kqueue server.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
