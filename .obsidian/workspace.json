@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/config 명세.md",
+                "file": "42seoul/Webserv/class/Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/config 명세.md",
+                "file": "42seoul/Webserv/class/Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/config 명세.md"
+                "file": "42seoul/Webserv/class/Config.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/config 명세.md",
+                "file": "42seoul/Webserv/class/Config.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
