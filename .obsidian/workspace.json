@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agile/Scrum.md",
+                "file": "JIRA/JIRA를 활용한 협업.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agile/Scrum.md",
+                "file": "JIRA/JIRA를 활용한 협업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agile/Scrum.md",
+                "file": "JIRA/JIRA를 활용한 협업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agile/Scrum.md"
+                "file": "JIRA/JIRA를 활용한 협업.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Agile/Scrum.md",
+                "file": "JIRA/JIRA를 활용한 협업.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,6 +227,8 @@
   "active": "313cce9fd11130c2",
   "lastOpenFiles": [
     "Agile/Scrum.md",
+    "JIRA/JIRA를 활용한 협업.md",
+    "JIRA",
     "Agile",
     "42seoul/Webserv/kqueue 튜토리얼.md",
     "42seoul/Webserv/함수/함수 정리.md",
@@ -261,14 +263,12 @@
     "WEB_note/socket/IO multiplexing.md",
     "1. Daily/2023-09-16.md",
     "1. Daily/2023-09-15.md",
-    "42seoul/Webserv/event.md",
     "42seoul/Webserv/구조체",
     "42seoul/Webserv/함수",
     "42seoul/Webserv/echo_server",
     "image file/File (3).jpg",
     "image file/File (2).jpg",
     "WEB_note/HTTP",
-    "WEB_note",
     "image file/IMG_72C8021A7DD0-1.jpeg",
     "image file/IMG_01425F8208AE-1.jpeg",
     "무제 파일.canvas",
