@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6ff93569d4accff1",
+        "id": "cdae14a6ed8d76fd",
         "type": "tabs",
         "children": [
           {
-            "id": "f31f310e96eec922",
+            "id": "313cce9fd11130c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/class/Config.md",
+                "file": "Agile/Scrum.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d0d7a4125e2c3a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42seoul/Webserv/config 명세.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1e7743e90dd4806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42seoul/Webserv/echo_server/single echo-server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c170015d0491fb2f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fcntl(",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/echo_server/single echo-server.md",
+                "file": "Agile/Scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/echo_server/single echo-server.md",
+                "file": "Agile/Scrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,12 +133,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/echo_server/single echo-server.md"
+                "file": "Agile/Scrum.md"
               }
             }
           },
           {
-            "id": "483d52dd446f6fcf",
+            "id": "dedbbf74f7d45664",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "54adcb1726d5b896",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbce2573da27a9f7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -186,56 +167,42 @@
         "currentTab": 3
       },
       {
-        "id": "473a9f4bfab1567b",
+        "id": "4023e9284f7d773b",
         "type": "tabs",
         "children": [
           {
-            "id": "0f2b419eb8a87cb5",
+            "id": "d1fca9176421f78d",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/echo_server/single echo-server.md",
+                "file": "Agile/Scrum.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
+                  "localInterlinks": false,
+                  "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.72824223533341,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": false,
-                  "centerStrength": 0.894652862814947,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 2.8882055426002973,
+                  "linkDistance": 250,
+                  "scale": 1,
                   "close": true
                 }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "360dd21179daefd7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dedbbf74f7d45664",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -257,54 +224,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c170015d0491fb2f",
+  "active": "313cce9fd11130c2",
   "lastOpenFiles": [
-    "42seoul/Webserv/echo_server/kqueue server.md",
-    "42seoul/Webserv/subject/webserv_subject.pdf",
-    "42seoul/Webserv/class/Config.md",
+    "Agile/Scrum.md",
+    "Agile",
+    "42seoul/Webserv/kqueue 튜토리얼.md",
+    "42seoul/Webserv/함수/함수 정리.md",
+    "workflow.md",
+    "무제 파일.md",
+    "WEB_note/CGI.md",
     "42seoul/Webserv/config 명세.md",
     "42seoul/Webserv/class/Server.md",
+    "42seoul/Webserv/class/Config.md",
     "42seoul/Webserv/class",
-    "42seoul/Webserv/subject/Webserv 요구 사항.md",
-    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
-    "WEB_note/CGI.md",
-    "1. Daily/2023-09-30.md",
-    "1. Daily/2023-09-15.md",
-    "1. Daily/2023-09-16.md",
-    "1. Daily/2023-09-23.md",
-    "1. Daily/2023-09-18.md",
-    "42seoul/Webserve",
-    "무제 파일.md",
-    "image file/transaction.jpg",
-    "WEB_note/HTTP/URL과 리소스.md",
-    "kernel queue.md",
-    "workflow.md",
-    "conflict-files-obsidian-git.md",
-    "WEB_note/HTTP/HTTP 메시지.md",
-    "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
-    "image file/일반 헤더.jpeg",
-    "image file/요청 정보 헤더.jpeg",
-    "image file/스크린샷 2023-09-20 22.49.30.png",
-    "image file/성공 상태 코드.jpeg",
-    "image file/서버 에러 상테 코드.jpeg",
-    "WEB_note/socket/select, poll, epoll, kqueue.md",
-    "WEB_note/socket/Socket.md",
-    "WEB_note/socket/Nagle 알고리즘.md",
-    "WEB_note/socket/IO multiplexing.md",
-    "WEB_note/socket",
-    "42seoul/Webserv/함수/함수 정리.md",
+    "42seoul/Webserv/subject/webserv_subject_note.md",
+    "42seoul/Webserv/echo_server/kqueue server.md",
+    "42seoul/Webserv/생각 해볼 거리.md",
     "42seoul/Webserv/함수/kqueue.md",
-    "42seoul/Webserv/함수",
+    "kernel queue.md",
     "42seoul/Webserv/커널 (Kernel).md",
-    "42seoul/Webserv/구조체/sockaddr_in.md",
+    "image file/스크린샷 2023-09-20 22.49.30.png",
+    "42seoul/Webserv/subject/webserv_subject.pdf",
+    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+    "1. Daily/2023-09-18.md",
+    "WEB_note/socket/Nagle 알고리즘.md",
+    "WEB_note/socket/Socket.md",
+    "42seoul/Webserv/echo_server/single echo-server.md",
+    "WEB_note/socket/select, poll, epoll, kqueue.md",
+    "WEB_note/socket",
+    "WEB_note/HTTP/HTTP 메시지.md",
+    "image file/요청 정보 헤더.jpeg",
+    "image file/일반 헤더.jpeg",
+    "image file/서버 에러 상테 코드.jpeg",
+    "image file/성공 상태 코드.jpeg",
+    "WEB_note/HTTP/URL과 리소스.md",
+    "WEB_note/socket/IO multiplexing.md",
+    "1. Daily/2023-09-16.md",
+    "1. Daily/2023-09-15.md",
+    "42seoul/Webserv/event.md",
     "42seoul/Webserv/구조체",
+    "42seoul/Webserv/함수",
     "42seoul/Webserv/echo_server",
     "image file/File (3).jpg",
-    "image file/URI.jpg",
-    "image file/Specific Requirement.png",
-    "image file/Requirement Specification2.png",
-    "무제 폴더",
+    "image file/File (2).jpg",
+    "WEB_note/HTTP",
     "WEB_note",
-    "무제 파일.canvas"
+    "image file/IMG_72C8021A7DD0-1.jpeg",
+    "image file/IMG_01425F8208AE-1.jpeg",
+    "무제 파일.canvas",
+    "image file/Specific Requirement.png"
   ]
 }
