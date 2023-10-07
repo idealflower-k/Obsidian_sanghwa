@@ -46,4 +46,11 @@ Feature: User shopping check out
 		Given: user logger in
 		And: user has billing and shipping details
 		And: user on check out page
+
+		When: user cofirms on the shipping address
+		And: user selects the payment details
+		And: user performs the check out
+
+		Then: application lands on confirmation page
+		And: user should able to print the confirmation
 ```
