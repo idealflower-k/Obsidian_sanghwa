@@ -36,10 +36,11 @@ tags:
 ## 3.3 개발 팀
 - 최선의 기술로 백로그를 개발하여 고객을 만족
 # 4. 주요 용어
-- 제품 백로그(Product Backlog) : 개발할 제품의 요구사항인 사용자 스토리 집합이며, 우선순위로 관리
-- 사용자 스토리(User Story) : 사용자 관점에서 사용자에게 가치를 제공하는 기능 및 설명
-	> 해설 : PO는 이 기능이 누구에게 무슨 Value를 제공하는지를 설명하고, 향후 개발자는 그 기능의 품질을 만족시키기 위한 기술적인 방법을 고민, 참고로 User Story는 Scrum이 아닌 eXtreme Programming에 있는 내용이다.
-- 완료 기준(Definition of Done), 인수 기준(Acceptance Griteria) : 사용자 스토리를 완료시키기 위한 조건 명세(Given, When, Then)
+- **제품 백로그(Product Backlog)** : 개발할 제품의 요구사항인 사용자 스토리 집합이며, 우선순위로 관리
+- **사용자 스토리(User Story)** : 사용자 관점에서 사용자에게 가치를 제공하는 기능 및 설명
+	> *해설*
+	> PO는 이 기능이 누구에게 무슨 Value를 제공하는지를 설명하고, 향후 개발자는 그 기능의 품질을 만족시키기 위한 기술적인 방법을 고민, 참고로 User Story는 Scrum이 아닌 eXtreme Programming에 있는 내용이다.
+- **완료 기준(Definition of Done)**, **인수 기준(Acceptance Griteria)** : 사용자 스토리를 완료시키기 위한 조건 명세(Given, When, Then)
 ```
 Feature: User shopping check out
 	Scenario: User successful Check out
@@ -54,3 +55,13 @@ Feature: User shopping check out
 		Then: application lands on confirmation page
 		And: user should able to print the confirmation
 ```
+- **스프린트(Sprint)**: 계획, 개발, 리뷰 작업 등 최소 단위의 Cycle이다. 보통 1~4주 단위에서 선택
+- **잠재적 출시 가능 제품(Potentially Shippable Product Increment)** 또는 **최소 실행 가능 제품(Minimum Viable Product, MVP)**: 팀이 최소 노력으로 고객에게 검증 결과를 받을 수 있는 수준의 제품
+- **스프린트 계획 회의(Sprint Planning Metting)**: 스프린트 목표와 스프린트 백로그를 계획하는 단계
+- **스프린트 백로그(Sprint Backlog)**: 각각의 스프린트 목표에 도달하기 위해 필요한 작업 목록
+- **칸반 보드(Kanban Board)**: 작업을 시각적으로 업무 상태, 흐름을 보여주는 게시판
+- **일일 스크럼 회의(Daily Scrum Meeting)**: 매일 어제 한일, 오늘 할일, 해결해야 할 장애/문제 요소를 공유하는 회의
+	> *해설*
+	> 모든 참여자가 보고가 아닌 수평적으로 공유 차원에서 진행해야 하며 팀원이 아니면 발언권은 없다.
+	> 장애요소는 적어놓고 지속적으로 해결한다.
+- **스프린트 리뷰(Sprint Review)**: 스프린트 마지막날 개발자가 개발한 내용을 stakeholder, 고객, 제품 책임자에게 시연학 
