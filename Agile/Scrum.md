@@ -29,4 +29,21 @@ tags:
 	- 젲품 백로그의 우선순위 관리
 	- 개발 확인
 ## 3.2 스크럼 마스터(Scrum Master)
-- Product Owner와 Development Team이 민첩한 가치(Value)와 원칙
+- Product Owner와 Development Team이 민첩한 가치(Value)와 원칙(Principle)을 유지하며 성공적인 제품을 만들고, 조직 변화를 촉진하고 민첩한 작업 방식을 수립하여 성공을 책임진다.
+	- 팀을 보호하고 장애 요소를 해결
+	- 일일 스크럼 회의를 진행
+	- 모니터링 및 Tracking
+## 3.3 개발 팀
+- 최선의 기술로 백로그를 개발하여 고객을 만족
+# 4. 주요 용어
+- 제품 백로그(Product Backlog) : 개발할 제품의 요구사항인 사용자 스토리 집합이며, 우선순위로 관리
+- 사용자 스토리(User Story) : 사용자 관점에서 사용자에게 가치를 제공하는 기능 및 설명
+	> 해설 : PO는 이 기능이 누구에게 무슨 Value를 제공하는지를 설명하고, 향후 개발자는 그 기능의 품질을 만족시키기 위한 기술적인 방법을 고민, 참고로 User Story는 Scrum이 아닌 eXtreme Programming에 있는 내용이다.
+- 완료 기준(Definition of Done), 인수 기준(Acceptance Griteria) : 사용자 스토리를 완료시키기 위한 조건 명세(Given, When, Then)
+```
+Feature: User shopping check out
+	Scenario: User successful Check out
+		Given: user logger in
+		And: user has billing and shipping details
+		And: user on check out page
+```
