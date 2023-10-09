@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "13c8317b01277fae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "081a7995d78dec35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42seoul/Webserv/subject/Webserv 요구 사항.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bdd1366513b65c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JIRA/JIRA를 활용한 협업(1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "6ff93569d4accff1",
         "type": "tabs",
         "children": [
@@ -255,8 +224,8 @@
   },
   "active": "c170015d0491fb2f",
   "lastOpenFiles": [
-    "JIRA/JIRA를 활용한 협업(1).md",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
+    "JIRA/JIRA를 활용한 협업(1).md",
     "42seoul/Webserv/subject/요구사항 명세.md",
     "42seoul/Webserv/config 명세.md",
     "workflow.md",
