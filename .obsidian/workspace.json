@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/subject/요구사항 명세.md",
+                "file": "WEB_note/socket/IO multiplexing.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/subject/요구사항 명세.md",
+                "file": "WEB_note/socket/IO multiplexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/subject/요구사항 명세.md",
+                "file": "WEB_note/socket/IO multiplexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/subject/요구사항 명세.md"
+                "file": "WEB_note/socket/IO multiplexing.md"
               }
             }
           },
@@ -161,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/subject/요구사항 명세.md",
+                "file": "WEB_note/socket/IO multiplexing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,13 +224,14 @@
   },
   "active": "c170015d0491fb2f",
   "lastOpenFiles": [
+    "kernel queue.md",
+    "42seoul/Webserv/함수/kqueue.md",
+    "42seoul/Webserv/subject/요구사항 명세.md",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "JIRA/JIRA를 활용한 협업(1).md",
-    "42seoul/Webserv/subject/요구사항 명세.md",
     "42seoul/Webserv/config 명세.md",
     "workflow.md",
     "무제 파일.md",
-    "kernel queue.md",
     "42seoul/Webserv/echo_server/single echo-server.md",
     "42seoul/Webserv/class/Config.md",
     "JIRA/JIRA를 활용한 협업(2).md",
@@ -262,7 +262,6 @@
     "image file/서버 에러 상테 코드.jpeg",
     "WEB_note/socket/select, poll, epoll, kqueue.md",
     "WEB_note/socket/Socket.md",
-    "WEB_note/socket/Nagle 알고리즘.md",
     "WEB_note/socket",
     "42seoul/Webserv/함수",
     "42seoul/Webserv/구조체",
