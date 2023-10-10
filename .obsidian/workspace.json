@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB_note/socket/IO multiplexing.md",
+                "file": "42seoul/Webserv/echo_server/kqueue server.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB_note/socket/IO multiplexing.md",
+                "file": "42seoul/Webserv/echo_server/kqueue server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB_note/socket/IO multiplexing.md",
+                "file": "42seoul/Webserv/echo_server/kqueue server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB_note/socket/IO multiplexing.md"
+                "file": "42seoul/Webserv/echo_server/kqueue server.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WEB_note/socket/IO multiplexing.md",
+                "file": "42seoul/Webserv/echo_server/kqueue server.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,6 +224,9 @@
   },
   "active": "c170015d0491fb2f",
   "lastOpenFiles": [
+    "42seoul/Webserv/구조체/sockaddr_in.md",
+    "WEB_note/socket/Socket.md",
+    "WEB_note/socket/IO multiplexing.md",
     "kernel queue.md",
     "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/subject/요구사항 명세.md",
@@ -254,14 +257,11 @@
     "WEB_note/HTTP/URL과 리소스.md",
     "conflict-files-obsidian-git.md",
     "WEB_note/HTTP/HTTP 메시지.md",
-    "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
     "image file/일반 헤더.jpeg",
     "image file/요청 정보 헤더.jpeg",
     "image file/스크린샷 2023-09-20 22.49.30.png",
     "image file/성공 상태 코드.jpeg",
     "image file/서버 에러 상테 코드.jpeg",
-    "WEB_note/socket/select, poll, epoll, kqueue.md",
-    "WEB_note/socket/Socket.md",
     "WEB_note/socket",
     "42seoul/Webserv/함수",
     "42seoul/Webserv/구조체",
