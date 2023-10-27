@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8d5e2e24200e8c6b",
+        "id": "208a8a28446ed57e",
         "type": "tabs",
         "children": [
           {
-            "id": "7a114d7a8144e441",
+            "id": "d7f4c252690b3765",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "68ea889208dac2ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "구글 ppt note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb57512a6b2b6272",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "구글 ppt note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "구글 ppt note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "구글 ppt note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "구글 ppt note.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,10 +213,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb57512a6b2b6272",
+  "active": "d7f4c252690b3765",
   "lastOpenFiles": [
-    "구글 ppt note.md",
+    "42seoul/Webserv/kqueue 튜토리얼.md",
+    "42seoul/Webserv/event.md",
+    "42seoul/Webserv/config 명세.md",
+    "42seoul/Webserv/echo_server/single echo-server.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
+    "구글 ppt note.md",
     "42seoul/Webserv/구조체/sockaddr_in.md",
     "WEB_note/socket/Socket.md",
     "WEB_note/socket/IO multiplexing.md",
@@ -253,9 +229,7 @@
     "42seoul/Webserv/subject/요구사항 명세.md",
     "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "JIRA/JIRA를 활용한 협업(1).md",
-    "42seoul/Webserv/config 명세.md",
     "workflow.md",
-    "42seoul/Webserv/echo_server/single echo-server.md",
     "42seoul/Webserv/class/Config.md",
     "JIRA/JIRA를 활용한 협업(2).md",
     "JIRA",
@@ -274,8 +248,6 @@
     "42seoul/Webserve",
     "image file/transaction.jpg",
     "WEB_note/HTTP/URL과 리소스.md",
-    "conflict-files-obsidian-git.md",
-    "WEB_note/HTTP/HTTP 메시지.md",
     "image file/일반 헤더.jpeg",
     "image file/요청 정보 헤더.jpeg",
     "image file/스크린샷 2023-09-20 22.49.30.png",
