@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/Client disconnect/수정해야할 클래스.md",
+                "file": "42seoul/Webserv/Client disconnect/Client disconnect 조건.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/Client disconnect/수정해야할 클래스.md",
+                "file": "42seoul/Webserv/Client disconnect/Client disconnect 조건.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/Client disconnect/수정해야할 클래스.md",
+                "file": "42seoul/Webserv/Client disconnect/Client disconnect 조건.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/Client disconnect/수정해야할 클래스.md"
+                "file": "42seoul/Webserv/Client disconnect/Client disconnect 조건.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/Client disconnect/수정해야할 클래스.md",
+                "file": "42seoul/Webserv/Client disconnect/Client disconnect 조건.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,8 +249,8 @@
   },
   "active": "c8b85c02ea3915c6",
   "lastOpenFiles": [
-    "42seoul/Webserv/Client disconnect/Time func().md",
     "42seoul/Webserv/Client disconnect/수정해야할 클래스.md",
+    "42seoul/Webserv/Client disconnect/Time func().md",
     "42seoul/Webserv/Client disconnect/Client disconnect 조건.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserv/Client disconnect",
