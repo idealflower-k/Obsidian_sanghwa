@@ -21,4 +21,12 @@
 	2. Dispatcher를 활용해서 처리하면 안되는 fd리스트 만들기? -> 새로 할당 받아서 중복된 fd를 고려해야한다. -> 언제까지 해당 fd를 처리하면 안되는지 고려
 
 # 연결 종료작업을 위해 class가 알고 있어야 하는 정보
-1. Client 이벤트 
+1. Client 이벤트 관련 handler들
+	1. 이벤트의 에러, read의 완료 -> Client의 disconnect가 가능해야한다.
+	2. 해당 동작을 위해 Client를 가지고 있는 Server의 removeClient를 사용해야 한다.
+	3. 추가로 자신과 같은 fd를 사용중인 이벤트들이 오작동 하지 않도록 한다.
+2. ServerAcceptHandler에서 ICallback을 알고 있다.
+	1. 해당 이벤트에서 Client가 생성되고 Client의 ReadHandler를 만들고 등록 한다.
+3. ClientReadHandler 혹은 Client의 execute에서 ClientWriteHandler를 등록 할 것이다.
+	1. Read에서 등록하면 ICallback 전달이 가능하다.
+	2. execute에서 등록하면 Client도 ICallback을 알아야 한다?
