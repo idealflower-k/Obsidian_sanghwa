@@ -28,5 +28,5 @@
 2. ServerAcceptHandler에서 ICallback을 알고 있다.
 	1. 해당 이벤트에서 Client가 생성되고 Client의 ReadHandler를 만들고 등록 한다.
 3. ClientReadHandler 혹은 Client의 execute에서 ClientWriteHandler를 등록 할 것이다.
-	1. Read에서 등록하면 ICallback 전달이 가능하다.
-	2. execute에서 등록하면 Client도 ICallback을 알아야 한다?
+	1. Read에서 등록하면 WriteHandler에게 ICallback 전달이 가능하다.
+	2. execute에서 Write를 등록하면 Client도 ICallback을 알아야 한다?
