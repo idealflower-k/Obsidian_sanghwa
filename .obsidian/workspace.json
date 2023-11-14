@@ -16,12 +16,14 @@
             }
           },
           {
-            "id": "5e2accca2f59e749",
+            "id": "b198e4307fbae798",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+                "file": "CGI in webserv.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "CGI in webserv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "CGI in webserv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+                "file": "CGI in webserv.md"
               }
             }
           },
@@ -167,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "CGI in webserv.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,13 +231,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e2accca2f59e749",
+  "active": "b198e4307fbae798",
   "lastOpenFiles": [
+    "CGI in webserv.md",
+    "42seoul/Webserv/subject/webserv_subject.pdf",
     "10-30 webserv.md",
     "42seoul/Webserv/Client disconnect/Client disconnect 조건.md",
     "42seoul/Webserv/Client disconnect/Time func().md",
     "42seoul/Webserv/Client disconnect/수정해야할 클래스.md",
-    "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserv/Client disconnect",
     "42seoul/Webserv/subject/webserv_subject_note.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
@@ -262,7 +265,6 @@
     "42seoul/Webserv/class/Server.md",
     "42seoul/Webserv/class",
     "WEB_note/CGI.md",
-    "1. Daily/2023-09-30.md",
     "42seoul/Webserve",
     "image file/transaction.jpg",
     "image file/일반 헤더.jpeg",
