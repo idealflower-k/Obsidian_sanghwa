@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9aad6aaced70808e",
+        "id": "e5ed64746d343082",
         "type": "tabs",
         "children": [
           {
-            "id": "b522aea2c8e2e693",
+            "id": "18b63c212ccbd871",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "1922be189964694e",
+            "id": "b198e4307fbae798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "에세이.md",
+                "file": "42seoul/Webserv/함수/kqueue.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fcntl(",
+                "query": "kevent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "에세이.md",
+                "file": "42seoul/Webserv/함수/kqueue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "에세이.md",
+                "file": "42seoul/Webserv/함수/kqueue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,28 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "에세이.md"
+                "file": "42seoul/Webserv/함수/kqueue.md"
               }
             }
           },
           {
-            "id": "dedbbf74f7d45664",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "54adcb1726d5b896",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "fbce2573da27a9f7",
+            "id": "483d52dd446f6fcf",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -177,42 +160,56 @@
         "currentTab": 3
       },
       {
-        "id": "4023e9284f7d773b",
+        "id": "473a9f4bfab1567b",
         "type": "tabs",
         "children": [
           {
-            "id": "d1fca9176421f78d",
+            "id": "0f2b419eb8a87cb5",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "에세이.md",
+                "file": "42seoul/Webserv/함수/kqueue.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
+                  "localInterlinks": true,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
+                  "nodeSizeMultiplier": 1.72824223533341,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.894652862814947,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
+                  "linkDistance": 30,
+                  "scale": 2.8882055426002973,
                   "close": true
                 }
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "360dd21179daefd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dedbbf74f7d45664",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -234,54 +231,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1922be189964694e",
+  "active": "b198e4307fbae798",
   "lastOpenFiles": [
-    "에세이.md",
-    "JIRA/JIRA를 활용한 협업(1).md",
-    "JIRA/JIRA를 활용한 협업(2).md",
-    "구글 ppt note.md",
-    "CGI in webserv.md",
-    "42seoul/Webserv/subject/요구사항 명세.md",
-    "42seoul/Webserv/Client disconnect/수정해야할 클래스.md",
-    "42seoul/Webserv/Client disconnect/Time func().md",
-    "42seoul/Webserv/Client disconnect/Client disconnect 조건.md",
-    "42seoul/Webserv/Client disconnect",
-    "10-30 webserv.md",
     "42seoul/Webserv/event.md",
     "42seoul/Webserv/kqueue 튜토리얼.md",
-    "42seoul/Webserv/pipe, socket.md",
-    "42seoul/Webserv/webserv 회의 기록.md",
-    "42seoul/Webserv/config 명세.md",
-    "42seoul/Webserv/커널 (Kernel).md",
-    "CreateDocument/소프트웨어 요구사항 명세서 (SRS).md",
-    "WEB_note/socket/Socket.md",
-    "WEB_note/socket/select, poll, epoll, kqueue.md",
-    "WEB_note/socket/Nagle 알고리즘.md",
-    "WEB_note/socket/IO multiplexing.md",
-    "Agile/Scrum.md",
-    "JIRA",
-    "Agile",
-    "42seoul/Webserv/함수/함수 정리.md",
-    "workflow.md",
-    "WEB_note/CGI.md",
-    "42seoul/Webserv/class/Server.md",
-    "42seoul/Webserv/class",
-    "image file/스크린샷 2023-09-20 22.49.30.png",
+    "kernel queue.md",
     "42seoul/Webserv/subject/webserv_subject.pdf",
+    "에세이.md",
+    "CGI in webserv.md",
+    "10-30 webserv.md",
+    "42seoul/Webserv/Client disconnect/Client disconnect 조건.md",
+    "42seoul/Webserv/Client disconnect/Time func().md",
+    "42seoul/Webserv/Client disconnect/수정해야할 클래스.md",
+    "42seoul/Webserv/Client disconnect",
+    "42seoul/Webserv/subject/webserv_subject_note.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
-    "WEB_note/socket",
-    "image file/요청 정보 헤더.jpeg",
+    "42seoul/Webserv/config 명세.md",
+    "42seoul/Webserv/echo_server/single echo-server.md",
+    "42seoul/Webserv/echo_server/kqueue server.md",
+    "구글 ppt note.md",
+    "42seoul/Webserv/구조체/sockaddr_in.md",
+    "WEB_note/socket/Socket.md",
+    "WEB_note/socket/IO multiplexing.md",
+    "42seoul/Webserv/함수/kqueue.md",
+    "42seoul/Webserv/subject/요구사항 명세.md",
+    "42seoul/Webserv/subject/Webserv 요구 사항.md",
+    "JIRA/JIRA를 활용한 협업(1).md",
+    "workflow.md",
+    "42seoul/Webserv/class/Config.md",
+    "JIRA/JIRA를 활용한 협업(2).md",
+    "JIRA",
+    "Agile/Scrum.md",
+    "Agile",
+    "42seoul/Webserv/class",
+    "42seoul/Webserve",
+    "image file/transaction.jpg",
     "image file/일반 헤더.jpeg",
-    "image file/서버 에러 상테 코드.jpeg",
+    "image file/요청 정보 헤더.jpeg",
+    "image file/스크린샷 2023-09-20 22.49.30.png",
     "image file/성공 상태 코드.jpeg",
-    "42seoul/Webserv/구조체",
+    "image file/서버 에러 상테 코드.jpeg",
+    "WEB_note/socket",
     "42seoul/Webserv/함수",
-    "42seoul/Webserv/echo_server",
+    "42seoul/Webserv/구조체",
     "image file/File (3).jpg",
-    "image file/File (2).jpg",
-    "image file/IMG_72C8021A7DD0-1.jpeg",
-    "image file/IMG_01425F8208AE-1.jpeg",
-    "무제 파일.canvas",
-    "image file/Specific Requirement.png"
+    "image file/URI.jpg",
+    "image file/Specific Requirement.png",
+    "image file/Requirement Specification2.png",
+    "무제 파일.canvas"
   ]
 }
