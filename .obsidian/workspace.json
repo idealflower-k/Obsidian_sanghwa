@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/함수/kqueue.md",
+                "file": "WEB_note/socket/select, poll, epoll, kqueue.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/함수/kqueue.md",
+                "file": "WEB_note/socket/select, poll, epoll, kqueue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/함수/kqueue.md",
+                "file": "WEB_note/socket/select, poll, epoll, kqueue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/함수/kqueue.md"
+                "file": "WEB_note/socket/select, poll, epoll, kqueue.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/함수/kqueue.md",
+                "file": "WEB_note/socket/select, poll, epoll, kqueue.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,8 +231,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b198e4307fbae798",
+  "active": "8f44505cc8065038",
   "lastOpenFiles": [
+    "42seoul/Webserv/subject/webserv_subject_note.md",
+    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
+    "42seoul/Webserv/subject/요구사항 명세.md",
+    "42seoul/Webserv/subject/Webserv 요구 사항.md",
+    "42seoul/Webserv/config 명세.md",
+    "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/event.md",
     "42seoul/Webserv/kqueue 튜토리얼.md",
     "kernel queue.md",
@@ -244,18 +250,12 @@
     "42seoul/Webserv/Client disconnect/Time func().md",
     "42seoul/Webserv/Client disconnect/수정해야할 클래스.md",
     "42seoul/Webserv/Client disconnect",
-    "42seoul/Webserv/subject/webserv_subject_note.md",
-    "42seoul/Webserv/subject/webserv_subject_ko.pdf",
-    "42seoul/Webserv/config 명세.md",
     "42seoul/Webserv/echo_server/single echo-server.md",
     "42seoul/Webserv/echo_server/kqueue server.md",
     "구글 ppt note.md",
     "42seoul/Webserv/구조체/sockaddr_in.md",
     "WEB_note/socket/Socket.md",
     "WEB_note/socket/IO multiplexing.md",
-    "42seoul/Webserv/함수/kqueue.md",
-    "42seoul/Webserv/subject/요구사항 명세.md",
-    "42seoul/Webserv/subject/Webserv 요구 사항.md",
     "JIRA/JIRA를 활용한 협업(1).md",
     "workflow.md",
     "42seoul/Webserv/class/Config.md",
