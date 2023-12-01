@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB_note/socket/select, poll, epoll, kqueue.md",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB_note/socket/select, poll, epoll, kqueue.md",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB_note/socket/select, poll, epoll, kqueue.md",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB_note/socket/select, poll, epoll, kqueue.md"
+                "file": "42seoul/Webserv/함수/함수 정리.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WEB_note/socket/select, poll, epoll, kqueue.md",
+                "file": "42seoul/Webserv/함수/함수 정리.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,8 +231,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8f44505cc8065038",
+  "active": "b198e4307fbae798",
   "lastOpenFiles": [
+    "WEB_note/socket/Socket.md",
+    "WEB_note/CGI.md",
+    "WEB_note/socket/select, poll, epoll, kqueue.md",
+    "WEB_note/socket/Nagle 알고리즘.md",
+    "WEB_note/socket/IO multiplexing.md",
+    "42seoul/Webserv/커널 (Kernel).md",
+    "42seoul/Webserv/pipe, socket.md",
     "42seoul/Webserv/subject/webserv_subject_note.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "42seoul/Webserv/subject/요구사항 명세.md",
@@ -254,14 +261,8 @@
     "42seoul/Webserv/echo_server/kqueue server.md",
     "구글 ppt note.md",
     "42seoul/Webserv/구조체/sockaddr_in.md",
-    "WEB_note/socket/Socket.md",
-    "WEB_note/socket/IO multiplexing.md",
     "JIRA/JIRA를 활용한 협업(1).md",
-    "workflow.md",
-    "42seoul/Webserv/class/Config.md",
-    "JIRA/JIRA를 활용한 협업(2).md",
     "JIRA",
-    "Agile/Scrum.md",
     "Agile",
     "42seoul/Webserv/class",
     "42seoul/Webserve",
