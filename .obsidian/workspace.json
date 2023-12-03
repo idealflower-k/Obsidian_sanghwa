@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3923bfc824321372",
+        "id": "cb236deffd80ce76",
         "type": "tabs",
         "children": [
           {
-            "id": "fcad2b7034dbcbac",
+            "id": "7ef9f264b4659e0b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+                "file": "1. Daily/2023-12-03.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "1. Daily/2023-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "1. Daily/2023-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf"
+                "file": "1. Daily/2023-12-03.md"
               }
             }
           },
@@ -166,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Webserv/subject/webserv_subject.pdf",
+                "file": "1. Daily/2023-12-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,8 +229,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fcad2b7034dbcbac",
+  "active": "7ef9f264b4659e0b",
   "lastOpenFiles": [
+    "42seoul/CPP_MODULE",
+    "42seoul/Webserv/subject/webserv_subject.pdf",
     "1. Daily/2023-12-03.md",
     "무제 파일.canvas",
     "2023-12-03.md",
@@ -257,7 +261,6 @@
     "42seoul/Webserv/config 명세.md",
     "42seoul/Webserv/함수/kqueue.md",
     "42seoul/Webserv/event.md",
-    "42seoul/Webserv/subject/webserv_subject.pdf",
     "42seoul/Webserv/Client disconnect",
     "JIRA",
     "Agile",
