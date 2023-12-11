@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82222e7f79f95685",
+            "id": "bcf603be78f110e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/코딩도장/Unit 1 ~ ?.md",
+                "file": "Python/점프투파이썬/02장 파이썬 자료형.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/코딩도장/Unit 1 ~ ?.md",
+                "file": "Python/점프투파이썬/02장 파이썬 자료형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/코딩도장/Unit 1 ~ ?.md",
+                "file": "Python/점프투파이썬/02장 파이썬 자료형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/코딩도장/Unit 1 ~ ?.md"
+                "file": "Python/점프투파이썬/02장 파이썬 자료형.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python/코딩도장/Unit 1 ~ ?.md",
+                "file": "Python/점프투파이썬/02장 파이썬 자료형.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,11 +230,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "82222e7f79f95685",
+  "active": "bcf603be78f110e7",
   "lastOpenFiles": [
+    "Python/점프투파이썬/01장 파이썬이란?.md",
+    "Python/점프투파이썬/02장 파이썬 자료형.md",
+    "Python/코딩도장/Unit 1 ~ ?.md",
+    "Python/점프투파이썬",
     "C++_note/dynamic_cast.md",
     "1. Daily/2023-12-03.md",
-    "Python/코딩도장/Unit 1 ~ ?.md",
     "C++_note/reinterpret_cast.md",
     "Python/코딩도장",
     "Python",
@@ -263,12 +266,9 @@
     "42seoul/Webserv/subject/webserv_subject_note.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "42seoul/Webserv/subject/요구사항 명세.md",
-    "42seoul/Webserv/subject/Webserv 요구 사항.md",
-    "42seoul/Webserv/config 명세.md",
     "42seoul/Webserv/Client disconnect",
     "JIRA",
     "Agile",
-    "42seoul/Webserv/class",
     "image file/transaction.jpg",
     "image file/일반 헤더.jpeg",
     "image file/요청 정보 헤더.jpeg",
