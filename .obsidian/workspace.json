@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/점프투파이썬/03장 제어문.md",
+                "file": "Python/점프투파이썬/04장 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/점프투파이썬/03장 제어문.md",
+                "file": "Python/점프투파이썬/04장 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/점프투파이썬/03장 제어문.md",
+                "file": "Python/점프투파이썬/04장 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/점프투파이썬/03장 제어문.md"
+                "file": "Python/점프투파이썬/04장 함수.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python/점프투파이썬/03장 제어문.md",
+                "file": "Python/점프투파이썬/04장 함수.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,8 +232,9 @@
   },
   "active": "bcf603be78f110e7",
   "lastOpenFiles": [
-    "Python/점프투파이썬/02장 파이썬 자료형.md",
     "Python/점프투파이썬/03장 제어문.md",
+    "Python/점프투파이썬/04장 함수.md",
+    "Python/점프투파이썬/02장 파이썬 자료형.md",
     "Python/점프투파이썬/01장 파이썬이란?.md",
     "Python/코딩도장/Unit 1 ~ ?.md",
     "Python/점프투파이썬",
@@ -264,7 +265,6 @@
     "WEB_note/socket/IO multiplexing.md",
     "42seoul/Webserv/커널 (Kernel).md",
     "42seoul/Webserv/pipe, socket.md",
-    "42seoul/Webserv/subject/webserv_subject_note.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "42seoul/Webserv/Client disconnect",
     "JIRA",
