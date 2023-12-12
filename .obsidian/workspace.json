@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6358750db9b0a0",
+        "id": "b2fd9560be4d1a60",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf603be78f110e7",
+            "id": "b0c83dddf9cf08fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/점프투파이썬/07장 클로저, 데코레이터, 이터레이터, 제너레이터, 타입 어노테이션.md",
+                "file": "Django/Django 소개, 작동 방식.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/점프투파이썬/07장 클로저, 데코레이터, 이터레이터, 제너레이터, 타입 어노테이션.md",
+                "file": "Django/Django 소개, 작동 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/점프투파이썬/07장 클로저, 데코레이터, 이터레이터, 제너레이터, 타입 어노테이션.md",
+                "file": "Django/Django 소개, 작동 방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/점프투파이썬/07장 클로저, 데코레이터, 이터레이터, 제너레이터, 타입 어노테이션.md"
+                "file": "Django/Django 소개, 작동 방식.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python/점프투파이썬/07장 클로저, 데코레이터, 이터레이터, 제너레이터, 타입 어노테이션.md",
+                "file": "Django/Django 소개, 작동 방식.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,10 +231,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bcf603be78f110e7",
+  "active": "b0c83dddf9cf08fa",
   "lastOpenFiles": [
-    "Python/점프투파이썬/04장 함수.md",
+    "Django/Django 소개, 작동 방식.md",
     "Python/점프투파이썬/07장 클로저, 데코레이터, 이터레이터, 제너레이터, 타입 어노테이션.md",
+    "Django",
+    "Python/점프투파이썬/04장 함수.md",
     "Python/점프투파이썬/05장 모듈, 패키지.md",
     "Python/점프투파이썬/03장 제어문.md",
     "Python/점프투파이썬/02장 파이썬 자료형.md",
@@ -265,11 +267,9 @@
     "WEB_note/CGI.md",
     "WEB_note/socket/select, poll, epoll, kqueue.md",
     "WEB_note/socket/Nagle 알고리즘.md",
-    "WEB_note/socket/IO multiplexing.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "42seoul/Webserv/Client disconnect",
     "JIRA",
-    "Agile",
     "image file/transaction.jpg",
     "image file/일반 헤더.jpeg",
     "image file/요청 정보 헤더.jpeg",
