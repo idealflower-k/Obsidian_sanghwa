@@ -1,8 +1,9 @@
 #django
 ## Model - Template - View (MTV) 구조
 ### Model
-- 데이터베이스에 연결하는 모델
-- 
+- 데이터베이스에 연결하는 모델 ( model.py )
+- 데이터베이스 및 데이터베이스 테이블의 실질적인 python 표현인 Django 프레임 워크의 하위 집합이 된다.
+-  
 ### Template
 - 사용자 브라우저에 연결하는 템플릿
 - 템플릿 자체는 HTML파일이 될 것이므로, 템플릿 == HTML, JS, CSS
