@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/raise, 미들웨어.md",
-                "mode": "source",
+                "file": "Django/raise, MiddleWare.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/raise, 미들웨어.md",
+                "file": "Django/raise, MiddleWare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/raise, 미들웨어.md",
+                "file": "Django/raise, MiddleWare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/raise, 미들웨어.md"
+                "file": "Django/raise, MiddleWare.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Django/raise, 미들웨어.md",
+                "file": "Django/raise, MiddleWare.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +258,7 @@
   "active": "e9b27c9ac24fb634",
   "lastOpenFiles": [
     "Django/Django 프로젝트 생성 with docker, postgresql.md",
-    "Django/raise, 미들웨어.md",
+    "Django/raise, MiddleWare.md",
     "Django/Django 소개, 작동 방식.md",
     "Python/점프투파이썬/07장 클로저, 데코레이터, 이터레이터, 제너레이터, 타입 어노테이션.md",
     "Django",
