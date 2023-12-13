@@ -11,24 +11,15 @@
             "id": "0c7121958dbed244",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0b99f7e1295d6355",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "C++_note/template.md",
-                "mode": "preview",
+                "file": "Django/Django 프로젝트 생성 with docker, postgresql.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++_note/template.md",
+                "file": "Django/Django 프로젝트 생성 with docker, postgresql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++_note/template.md",
+                "file": "Django/Django 프로젝트 생성 with docker, postgresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++_note/template.md"
+                "file": "Django/Django 프로젝트 생성 with docker, postgresql.md"
               }
             }
           },
@@ -177,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "C++_note/template.md",
+                "file": "Django/Django 프로젝트 생성 with docker, postgresql.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,10 +230,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0b99f7e1295d6355",
+  "active": "0c7121958dbed244",
   "lastOpenFiles": [
-    "C++_note/template.md",
     "Django/raise, MiddleWare.md",
+    "C++_note/template.md",
     "Django/Django 소개, 작동 방식.md",
     "Django/Django 프로젝트 생성 with docker, postgresql.md",
     "Python/점프투파이썬/07장 클로저, 데코레이터, 이터레이터, 제너레이터, 타입 어노테이션.md",
