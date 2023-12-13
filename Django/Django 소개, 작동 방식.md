@@ -22,4 +22,3 @@
 2. Models
 3. URLs and Views
 4. Templates
-
