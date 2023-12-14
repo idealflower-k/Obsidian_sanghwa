@@ -91,4 +91,4 @@ webserv 프로그램의 구현에 앞서 subject에 나와있는 요구사항과
 
 #### 연결 노트
 [[42seoul/Webserv/subject/webserv_subject_note|subject 참고]]
-[[소프트웨어 요구사항 명세서 (SRS)]]
+[[CreateDocument/소프트웨어 요구사항 명세서 (SRS)]]
