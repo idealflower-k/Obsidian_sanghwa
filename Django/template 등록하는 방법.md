@@ -14,4 +14,10 @@
 ## 4. register the app and any database changes with Django by running
 1. python manage.py makemigrations myapp
 ## 5. Run python manage.py migrate again to create the model tables in our database
-- 데이터베이스에 모델 
+- 데이터베이스에 모델 테이블 생성
+## 6. Create a templates dir inside your app dir
+- my_site
+	- my_app
+		- templates
+			- my_app
+				- example.html

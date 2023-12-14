@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/template 등록하는 방법.md",
+                "file": "Django/Django 소개, 작동 방식.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/template 등록하는 방법.md",
+                "file": "Django/Django 소개, 작동 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/template 등록하는 방법.md",
+                "file": "Django/Django 소개, 작동 방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/template 등록하는 방법.md"
+                "file": "Django/Django 소개, 작동 방식.md"
               }
             }
           },
@@ -178,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Django/template 등록하는 방법.md",
+                "file": "Django/Django 소개, 작동 방식.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,11 +242,11 @@
   "active": "7fdc52417f6f8d99",
   "lastOpenFiles": [
     "Django/template 등록하는 방법.md",
-    "Python/점프투파이썬/07장 클로저, 데코레이터, 이터레이터, 제너레이터, 타입 어노테이션.md",
     "Django/raise, MiddleWare.md",
-    "Django/Django 프로젝트 생성 with docker, postgresql.md",
-    "C++_note/template.md",
     "Django/Django 소개, 작동 방식.md",
+    "Django/Django 프로젝트 생성 with docker, postgresql.md",
+    "Python/점프투파이썬/07장 클로저, 데코레이터, 이터레이터, 제너레이터, 타입 어노테이션.md",
+    "C++_note/template.md",
     "Django",
     "Python/점프투파이썬/04장 함수.md",
     "Python/점프투파이썬/05장 모듈, 패키지.md",
