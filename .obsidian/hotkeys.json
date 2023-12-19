@@ -15,5 +15,16 @@
       ],
       "key": "G"
     }
-  ]
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "graph:open": []
 }
