@@ -23,7 +23,7 @@
 #### 멤버함수
 1. 생성자, 복사생성자, 복사할당연산자, 소멸자
 2. setData() -> data를 읽어 map에 할당한다.
-3. vaildFormat() -> 첫라인에 들어온 format에 맞는지 확인한다.
+3. vaildFormat(std::string delimiter, std::string input) -> 첫라인에 들어온 format에 맞는지 확인한다. (data의 구분자는 '|' 로 한정한다. input의 구분자는 ','로 한정한다. 공백은 무시된다.)
 4. vaildDate, vaildRate -> date검사, rate검사
 5. vaildValue -> input Value 검사
 6. multivalue() -> rate와 value 계산
