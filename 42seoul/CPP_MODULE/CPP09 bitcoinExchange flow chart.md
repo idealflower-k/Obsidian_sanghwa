@@ -21,4 +21,11 @@
 1. map<std::string, double> \_data
 2. std::string \_inputFile
 #### 멤버함수
-1. 생성자, 복사생ㅅ
+1. 생성자, 복사생성자, 복사할당연산자, 소멸자
+2. setData() -> data를 읽어 map에 할당한다.
+3. vaildFormat() -> 첫라인에 들어온 format에 맞는지 확인한다.
+4. vaildDate, vaildRate -> date검사, rate검사
+5. vaildValue -> input Value 검사
+6. multivalue() -> rate와 value 계산
+7. printResult -> 결과 문자열 출력
+8. convert() -> 전체 로직 함수
