@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -237,7 +236,8 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0168ade1fdefe521",
