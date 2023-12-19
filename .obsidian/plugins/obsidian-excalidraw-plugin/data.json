@@ -29726,7 +29726,7 @@
   },
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
-  "openAIAPIToken": "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",
+  "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4-vision-preview",
   "openAIURL": "https://api.openai.com/v1/chat/completions",
