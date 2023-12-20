@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/CPP_MODULE/CPP09 bitcoinExchange flow chart.md",
+                "file": "42seoul/CPP_MODULE/CPP09/ex00 bitcoinExchange flow chart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8be6563c22f71533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42seoul/CPP_MODULE/CPP09/ex01 Reverse Polish Notation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/CPP_MODULE/CPP09 bitcoinExchange flow chart.md",
+                "file": "42seoul/CPP_MODULE/CPP09/ex01 Reverse Polish Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/CPP_MODULE/CPP09 bitcoinExchange flow chart.md",
+                "file": "42seoul/CPP_MODULE/CPP09/ex01 Reverse Polish Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/CPP_MODULE/CPP09 bitcoinExchange flow chart.md"
+                "file": "42seoul/CPP_MODULE/CPP09/ex01 Reverse Polish Notation.md"
               }
             }
           },
@@ -168,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/CPP_MODULE/CPP09 bitcoinExchange flow chart.md",
+                "file": "42seoul/CPP_MODULE/CPP09/ex01 Reverse Polish Notation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,9 +244,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1fc400cc9628fe52",
+  "active": "8be6563c22f71533",
   "lastOpenFiles": [
-    "42seoul/CPP_MODULE/CPP09 bitcoinExchange flow chart.md",
+    "42seoul/CPP_MODULE/CPP09/ex00 bitcoinExchange flow chart.md",
+    "42seoul/CPP_MODULE/CPP09/ex01 Reverse Polish Notation.md",
+    "42seoul/CPP_MODULE/CPP09",
     "Excalidraw/Drawing_2023-12-19 13.57.26.excalidraw.md",
     "Excalidraw.md",
     "Excalidraw",
@@ -267,9 +282,7 @@
     "10-30 webserv.md",
     "구글 ppt note.md",
     "CGI in webserv.md",
-    "2. Weekly/2023-W37.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
-    "42seoul/Webserv/Client disconnect",
     "image file/transaction.jpg",
     "image file/일반 헤더.jpeg",
     "image file/요청 정보 헤더.jpeg",
