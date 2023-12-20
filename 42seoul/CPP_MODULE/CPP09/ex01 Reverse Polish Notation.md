@@ -17,7 +17,7 @@
 #### 변수
 - std::stack\<int\> \_storge
 - std::string \_input
-- std::string \_operators[4];
+- int (\*operators[4]) (int, int) \_operators;
 #### 멤버 함수
 - 생성자, 소멸자, 복사생성자, 복사할당연산자
 - calculator(); -> 메인 로직 함수
@@ -28,4 +28,8 @@
 - void calData(std::string str); -> 연산자를 받아 스택에 있는 2개의 숫자를 연산해서 다시 push한다.
 - std::stack\<int\> getTwoData(); -> storge에 있는 2개의 요소를 스택으로 가져온다, 2개 미만시 "ERROR"그리고 종료
 - void printResult(); -> 최종 스택에 남은 요소를 출력한다, 2개이상이면 "ERROR"출력
-- int 
+- int calOp(std::string op); -> operators 배열에 있는 계산 함수 실행후 결과값 리턴
+- int addition(int data1, int data2); -> 더하기
+- int subtraction(int data1, int data2); -> 빼기
+- int multiplication(int data1, int data2); -> 곱하기
+- int division(int data1, int data2); -> 나누기, 0으로 나누면 "ERROR"
