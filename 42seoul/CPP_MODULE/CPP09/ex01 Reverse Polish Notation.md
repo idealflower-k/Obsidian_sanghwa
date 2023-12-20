@@ -18,6 +18,7 @@
 - std::stack\<int\> \_storge
 - std::string \_input
 - int (\*operators[4]) (int, int) \_operators;
+- std::string \_operatorsStr[4];
 #### 멤버 함수
 - 생성자, 소멸자, 복사생성자, 복사할당연산자
 - calculator(); -> 메인 로직 함수
