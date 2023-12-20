@@ -17,7 +17,15 @@
 #### 변수
 - std::stack\<int\> \_storge
 - std::string \_input
+- std::string \_operators[4];
 #### 멤버 함수
 - 생성자, 소멸자, 복사생성자, 복사할당연산자
 - calculator(); -> 메인 로직 함수
-- std::stack<int> getOneData(); -> input 문자열에서 공백으로 구분해 요소하나를 리턴한다, input에서 해당 요소를 삭제하고 공백을 밀어둔다.
+- std::string getOneData(); -> input 문자열에서 공백으로 구분해 요소하나를 리턴한다, input에서 해당 요소를 삭제하고 앞에 있는 공백을 삭제한다.
+- void route(std::string str); -> str의 유형에 따라 setData(), calData()를 호출한다.
+- bool validStr(std::string str); -> str의 유효성검사를 한다.
+- void setData(int data); -> data를 storge에 push한다.
+- void calData(std::string str); -> 연산자를 받아 스택에 있는 2개의 숫자를 연산해서 다시 push한다.
+- std::stack\<int\> getTwoData(); -> storge에 있는 2개의 요소를 스택으로 가져온다, 2개 미만시 "ERROR"그리고 종료
+- void printResult(); -> 최종 스택에 남은 요소를 출력한다, 2개이상이면 "ERROR"출력
+- int 
