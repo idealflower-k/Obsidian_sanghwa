@@ -19,9 +19,19 @@
 ## 클래스 명세
 ### class PmergeMe
 #### 변수
-	std::vector<unsigned int> \_vec
-	
+- std::vector\<unsigned int\> \_vec
+- std::deque\<unsignde int\> \_deq
+- size_t \_sizeN
+- std::time_t \_vecSortTime
+- std::time_t \_deqSortTime
 #### 멤버 함수
+- PmergeMe(char \*\*av);
+- void initData(char \*\*av);
+- bool validData(std::string data);
+- void strToUint(std::string str);
+- void fordJohnsonAlgorithm();
+- void pairSort(size_t size, size_t pairNum)
+- void mergeInsertionSort(size_t low, size_t high);
 
 ## flow chart
 	1. 매개변수로 받은 문자열들을 유효성 검사를 하면서 2개의 컨테이너에 넣는다.
