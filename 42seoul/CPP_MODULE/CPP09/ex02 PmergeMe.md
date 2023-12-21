@@ -29,9 +29,16 @@
 - void initData(char \*\*av);
 - bool validData(std::string data);
 - void strToUint(std::string str);
-- void fordJohnsonAlgorithm();
-- void pairSort(size_t size, size_t pairNum)
-- void mergeInsertionSort(size_t low, size_t high);
+- void fordJohnsonAlgorithmVector(size_t size);
+- void pairSortVector(size_t size);
+- void mergeInsertionSortVector(size_t low, size_t high);
+- void fordJohnsonAlgorithmDeque(size_t size);
+- void pairSortDeque(size_t size);
+- void mergeInsertionSortDeque(size_t low, size_t high);
+- void printInput();
+- void printDeque();
+- void printVector();
+- void printTime();
 
 ## flow chart
 	1. 매개변수로 받은 문자열들을 유효성 검사를 하면서 2개의 컨테이너에 넣는다.
