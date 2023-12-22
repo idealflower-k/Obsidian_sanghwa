@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabPlus",
-      "FarC",
       "FabQuestion",
       "RiFunctionFill",
-      "🕸"
+      "🕸",
+      "FabUserSecret",
+      "FabCalendarDays"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,10 +22,8 @@
     },
     "iconInTabsEnabled": true
   },
-  "2. Weekly": "FabCalendarDays",
   "1. Daily": "FabCalendarDays",
   "3. Monthly": "FabCalendarDays",
   "4. Yearly": "FabCalendarDays",
-  "42seoul/Webserv": "🕸",
-  "42seoul/CPP_MODULE": "FabPlus"
+  "42seoul/Webserv": "🕸"
 }

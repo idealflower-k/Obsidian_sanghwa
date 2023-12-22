@@ -51,3 +51,14 @@
 	2. pair로 묶인 요소들 끼리 큰 수가 앞으로 가게 정렬한다.
 	3. size *= 2, pair = n/size로 진행된다.
 	4. pair = 1이 되면 병합정렬을 하며 재귀를 탈출한다.
+## mergeInsertion flow
+- main의 값과 pending의 값을 짝지을 필요가 있다. -> pending을 통해 main의 어느 값과 쌍을 이루는지 알 수 있어야한다.
+	1. main과 pending을 나눈다.
+	2. pending의 첫번째 요소를 mainChain 맨 앞에 insert한다.
+	3. pending을 main에 mergeInsertion한다.
+		1. jacobsThal 수를 가져와 해당 pending 요소 부터 vector의 begin()까지 binarySearch로 main에 넣는다. -> end는 짝인 main의 값, start는 0
+		2. 재귀적으로 다음 jacobsThal수를 가져와 begin()까지 반복한다.
+		> pending의 요소를 main에 merge하면 pending의 인덱스가 변화하는데 어떻게 보정을 할것인가.
+		> 		원본 vector를 직접적으로 수정을 할 것인가. 그렇다면 원본을 수정하면 iterator가 안전한가?
+		> 		아니면, 다 종료되고 main의 iterator 배열을 토대로 원본을 수정할 수 있는가?
+	4. 
