@@ -73,4 +73,16 @@
 		> 		아니면, 다 종료되고 main의 iterator 배열을 토대로 원본을 수정할 수 있는가?
 	4. 재귀를 탈출하며 다음 size에서 mergeInsertion을 호출한다.
 ## binary_search flow
-- iterator를 가지고 있는 vector인데 upper_dound()가 가능한가?
+- iterator를 가지고 있는 vector인데 upper_dound()가 가능한가? -> upper_bound()에 사용자 정의 함수를 넣어서 할 수 있다.
+	- iterator의 데이터를 비교하는 함수를 하나 만들어서 전달한다.
+- middle값을 구하는 로직
+	- main, pending vector로 관리하면 end / 2가 가능 할듯 하다.
+	- end는 pending자신의 짝 iterator가 있는 인덱스
+	- middle 은 end / 2
+	- start 는 0 고정
+	- 다음 middle 은 middle 보다 크다면 middle + ((end인덱스 - middle인데스) / 2), 작다면 middle - (middle인덱스 / 2)
+	- 다음 end는 고정, middle - 1 이 end값이 된다.
+	- 다음 start는 middle + 1이 start, 0으로 고정
+
+	1. 재귀적으로 start, middle, end를 변경하며 진행한다.
+	2. 
