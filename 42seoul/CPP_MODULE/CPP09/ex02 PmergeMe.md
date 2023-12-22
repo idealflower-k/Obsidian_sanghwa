@@ -66,23 +66,18 @@
 	1. main과 pending을 나눈다.
 	2. pending의 첫번째 요소를 mainChain 맨 앞에 insert한다.
 	3. pending을 main에 mergeInsertion한다.
-		1. jacobsThal 수를 가져와 해당 pending 요소 부터 vector의 begin()까지 binarySearch로 main에 넣는다. -> end는 짝인 main의 값, start는 0
-		2. 재귀적으로 다음 jacobsThal수를 가져와 begin()까지 반복한다.
+		2. jacobsThal 수를 가져와 해당 pending 요소 부터 vector의 begin()까지 binarySearch로 main에 넣는다. -> end는 짝인 main의 값, start는 0
+		3. begin()이 아니라 jacobs[n - 1] 까지 반복한다.
+		4. 재귀적으로 다음 jacobsThal수를 가져와 begin()까지 반복한다.
 		> pending의 요소를 main에 merge하면 pending의 인덱스가 변화하는데 어떻게 보정을 할것인가.
 		> 		원본 vector를 직접적으로 수정을 할 것인가. 그렇다면 원본을 수정하면 iterator가 안전한가?
 		> 		아니면, 다 종료되고 main의 iterator 배열을 토대로 원본을 수정할 수 있는가?
-	4. 재귀를 탈출하며 다음 size에서 mergeInsertion을 호출한다.
+		> 		pair가 아니었던 요소들의 처리에 조심하자
+	1. 재귀를 탈출하며 다음 size에서 mergeInsertion을 호출한다.
 ## binary_search flow
 - iterator를 가지고 있는 vector인데 upper_dound()가 가능한가? -> upper_bound()에 사용자 정의 함수를 넣어서 할 수 있다.
 	- iterator의 데이터를 비교하는 함수를 하나 만들어서 전달한다.
-- middle값을 구하는 로직
-	- main, pending vector로 관리하면 end / 2가 가능 할듯 하다.
-	- end는 pending자신의 짝 iterator가 있는 인덱스
-	- middle 은 end / 2
-	- start 는 0 고정
-	- 다음 middle 은 middle 보다 크다면 middle + ((end인덱스 - middle인데스) / 2), 작다면 middle - (middle인덱스 / 2)
-	- 다음 end는 고정, middle - 1 이 end값이 된다.
-	- 다음 start는 middle + 1이 start, 0으로 고정
 
-	1. 재귀적으로 start, middle, end를 변경하며 진행한다.
-	2. 
+	1. upper_bound()를 이용해서 iterator를 리턴 받는다.
+	2. 해당 위치에 pending first 값을 insert한다.
+	3. pending에서 지운다?  -> 지우지 않고 mergeinsertion에서 n - 1 jacobs를 판단 할 수 있게 해준다.
