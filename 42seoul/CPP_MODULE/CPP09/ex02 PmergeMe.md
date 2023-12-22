@@ -52,7 +52,17 @@
 	3. size *= 2, pair = n/size로 진행된다.
 	4. pair = 1이 되면 병합정렬을 하며 재귀를 탈출한다.
 ## mergeInsertion flow
+- pair == 1 일때 재귀를 탈출하며 mergeInsertion을 호출한다.
+- main과 pending을 iterator로 구분할 것인가?
+	- 데이터를 복사해서 가지고 main에 merge하고 해당 결과를 원본으로 복사한다?
 - main의 값과 pending의 값을 짝지을 필요가 있다. -> pending을 통해 main의 어느 값과 쌍을 이루는지 알 수 있어야한다.
+	- pending이 main에 merge되면 main의 인덱스가 변화하여 인덱스를 통한 계산은 불가능하다.
+	- const하게 짝을 알 수 있어야한다.
+	- pending은 pair를 가지는 vector?
+	``` cpp
+	std::vector<std::pair<std::vector<int>::iterator, std::vector<int>::iterator> > _pendings;
+```
+
 	1. main과 pending을 나눈다.
 	2. pending의 첫번째 요소를 mainChain 맨 앞에 insert한다.
 	3. pending을 main에 mergeInsertion한다.
@@ -61,4 +71,6 @@
 		> pending의 요소를 main에 merge하면 pending의 인덱스가 변화하는데 어떻게 보정을 할것인가.
 		> 		원본 vector를 직접적으로 수정을 할 것인가. 그렇다면 원본을 수정하면 iterator가 안전한가?
 		> 		아니면, 다 종료되고 main의 iterator 배열을 토대로 원본을 수정할 수 있는가?
-	4. 
+	4. 재귀를 탈출하며 다음 size에서 mergeInsertion을 호출한다.
+## binary_search flow
+- iterator를 가지고 있는 vector인데 upper_dound()가 가능한가?
