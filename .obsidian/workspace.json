@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2580b91f479f7fd6",
+        "id": "4cce4292ed024e82",
         "type": "tabs",
         "children": [
           {
-            "id": "66384fcd78f55589",
+            "id": "aa0cd4c3cb3f9c89",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "async",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -223,11 +224,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "130b660b1c6b38b6",
+  "active": "aa0cd4c3cb3f9c89",
   "lastOpenFiles": [
+    "42seoul/CPP_MODULE/CPP09/ex02 PmergeMe.md",
     "42seoul/CPP_MODULE/CPP09/ex00 bitcoinExchange flow chart.md",
     "42seoul/CPP_MODULE/CPP09/ex01 Reverse Polish Notation.md",
-    "42seoul/CPP_MODULE/CPP09/ex02 PmergeMe.md",
     "42seoul/CPP_MODULE/CPP09",
     "Excalidraw/Drawing_2023-12-19 13.57.26.excalidraw.md",
     "Excalidraw.md",
