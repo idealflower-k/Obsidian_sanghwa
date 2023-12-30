@@ -49,3 +49,32 @@ loop.close()
 1. lazy_greet 코루틴은 몇 초의 딜레이를 가진 후에, 입력받은 문구를 출력하도록 구성되었다.
 2. get_event_loop() 함수를 써서 런루프를 얻고
 3. run_until_complete()를 이용해서 이를 돌리면서 코루틴을 넘겨준다. 이 메소드는 코루틴이나 Future 객체를 받아서 스케줄링한다. 코루틴이 전달된 경우에는 이를 내부에서 Future로 래핑하여 처리한다. 이 함수는 넘겨받은 코루틴이 실행을 끝내면 리턴한다.
+## 여러 개의 비동기 작업을 스케줄링해보자
+- 여러개의 코루틴을 한번에 스케줄링하면 순서대로 실행되면서 내부에서 **await** 가 등장하면 다른 코루틴으로 제어권이 넘어간다.
+- 아래 예제는 여러 코루틴을 한번에 스케줄링하고 **as_complete** 를 이용해서 하나씩 그 결과를 얻어 처리하는 가장 기본적인 패턴이다.
+``` python
+import asyncio
+import random
+
+async def lazy_greet(msg, delay=1):
+	print(msg, "will be displayed in", delay, "seconds")
+	await asyncio.sleep(delay)
+	return msg.upper()
+
+async def main():
+	messages = ["hello", "world", "apple", "banana", "cherry"]
+	fts = [asyncio.ensure_future(lazy_greet(m, random.randint(1, 5))) for m in messages]
+	for f in asyncio.as_completed(fts):
+		x = await f
+		print(x)
+
+loop = asyncio.get_event_loop()
+loop.run_until_complete(main())
+loop.close()
+
+# python 3.7+
+asyncio.run(main())
+```
+1. lazy_greet() 는 지연 시간 후에 메시지를 출력한 후에 해당 메시지를 대문자로 변환해서 리턴한다.
+2. 맨 먼저 런루프에 대해 main() 이 스케줄링되고 즉시 실행된다.
+3. main() 내에서는 fts를 생성하면서 다섯개의 코루틴이 스케줄링 된다. 하지만 현재 스레드에서 제어권
