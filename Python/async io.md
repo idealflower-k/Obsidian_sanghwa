@@ -31,3 +31,21 @@
 > 파이썬 3.7에서는 이러한 작업들 마저 **asyncio.run()** 함수를 사용하여 한 번에 처리할 수 있다.
 > 파이썬 3.8에서는 **python -m asyncio** 로 쉘을 시작하면 쉘 자체가 런루프 내에서 돌아간다.
 ## 비동기 코루틴을 호출하는 방법
+1. 비동기로 처리될 루틴을 코루틴으로 정의한다.
+2. 런루프를 생성하고
+3. 런루프 스케줄링한 다음
+4. 런루프를 돌려 코루틴이 끝나기를 기다린다.
+``` python
+import asyncio
+
+async def lazy_greet(msg, delay=1):
+	await asyncio.sleep(delay)
+	print(msg)
+
+loop = asyncio.get_event_loop()
+loop.run_until_complete(lazy_greet("hello", 3))
+loop.close()
+```
+1. lazy_greet 코루틴은 몇 초의 딜레이를 가진 후에, 입력받은 문구를 출력하도록 구성되었다.
+2. get_event_loop() 함수를 써서 런루프를 얻고
+3. run_until_complete()를 이용해서 이를 돌리면서 코루틴을 넘겨준다. 이 메소드는 코루틴이나 Future 객체를 받아서 스케줄링한다. 코루틴이 전달된 경우에는 이를 내부에서 Future로 래핑하여 처리한다. 이 함수는 넘겨받은 코루틴이 실행을 끝내면 리턴한다.
