@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/ASGI, WSGI.md",
+                "file": "Python/async io.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/ASGI, WSGI.md",
+                "file": "Python/async io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/ASGI, WSGI.md",
+                "file": "Python/async io.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/ASGI, WSGI.md"
+                "file": "Python/async io.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python/ASGI, WSGI.md",
+                "file": "Python/async io.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,8 +236,9 @@
   },
   "active": "f1861c6fec909ff6",
   "lastOpenFiles": [
-    "Excalidraw.md",
     "Python/ASGI, WSGI.md",
+    "Python/async io.md",
+    "Excalidraw.md",
     "Excalidraw/Drawing_2023-12-19 13.57.26.excalidraw.md",
     "42seoul/CPP_MODULE/CPP09/ex02 PmergeMe.md",
     "42seoul/CPP_MODULE/CPP09/ex00 bitcoinExchange flow chart.md",
@@ -271,7 +272,6 @@
     "C++_note",
     "에세이.md",
     "workflow.md",
-    "10-30 webserv.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "image file/transaction.jpg",
     "image file/일반 헤더.jpeg",
