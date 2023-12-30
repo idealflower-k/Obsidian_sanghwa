@@ -86,4 +86,8 @@ asyncio.run(main())
 9. 하나의 코루틴이 리턴하면, 이벤트 루프는 그 다음번 기다리고 있는 코루틴으로 제어권을 넘겨준다. main() 혹은 다른 lazy_greet()
 10. 이런식으로 런루프부터 먼저 끝난 코루틴이 발생할 때마다 **x = await f** 가 평가 완료되고 그 결과가 하나씩 출력된다.
 ## Task / Future
-밥 따로 먹는게 나을것같아서 전 지금 먹어여
+- asyncio 모듈의 Fature는 아직 완료되지 않고 실행중일 코루틴 작업을 감싸는 클래스이며, **concurrent.future.Future** 와 거의 같은 API를 제공하고 있다.
+	- result() 를 이용해서 결과를 얻거나
+	- done(), cancelled()를 이용해 완료/취소여부를 확인할 수 있으며, cancel() 메소드로 취소할 수 있다.
+	- add_done_callback() 을 이용해서 완료 콜백함수를 삽입할 수 있다.
+- 
