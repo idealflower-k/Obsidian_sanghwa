@@ -22,3 +22,10 @@
 > 파이썬 3.7qnxjsms **asyncio.create_task()** 라는 보다 시용자 친화적인 이름의 함수가 등장했다.
 - 코루틴을 스케줄링하려면 **asyncio.ensure_future()** 를 이용한다.
 	- 이 함수는 코루틴 객체를 인자로 받아서 **asyncio.Task** 객체를 리턴해주는데 이 **Task** 객체는 **asyncio.Future** 의 서브 클래스이며, **concurrent.futures** 에 정의된 **Future** 클래스와 거의 동일한 API를 제공한다.
+- 즉, **asyncio.ensure_future()** 는 병렬처리 모듈인 **concurrent.futures** 의 **Executor.submit()** 과 동일한 역할을 한다고 할 수 있다.
+## 런루프
+- 런루프는 일종의 무한루프이다.
+- 특정한 이벤트나 콜이 발생하면 런루프에 해당 작업이 등록된다. 그리고 루프의 말미에 처리해야 할 함수들을 차례로 호출해 주는 것이다.
+- 따라서, **ensure_future()** 함수가 실행되려면 코루틴을 걸어둘 런루프가 필요하며, 비동기 작업을 처리하기 전에는 런루프를 돌려야한다.
+	  **get_event_loop()** 함수를 통해서 얻고, **run_until_\*()** 함수들을 통해서 돌릴 수 있다.
+> 파이썬 3.7에서는 
