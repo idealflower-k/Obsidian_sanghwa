@@ -14,4 +14,7 @@
 - 인터넷을 통한 파일 전송을 처리하는 간단한 프로토콜이다.
 - TCP/IP 연결을 통해 컴퓨터 간의 파일 전송을 용이하게 하는 네트워크 프로토콜이다.
 - FTP를 사용하면 FileZilla 와 같은 FTP 소프트웨어를 사용허여 컴퓨터에서 원격 호스트로 파일을 저송할 수 있다.
-- 
+### 2. HTTP (하이퍼텍스트 전송 프로토콜)
+- [[WEB_note/HTTP/HTTP (HyperText Transfer Protocol)|HTTP (HyperText Transfer Protocol)]]
+- 웹 서버와 웹 브라우저 간의 상호 작용을 관리한다.
+- 최종 사용자의 브라우저와 웹서버간의 요청 및 응답 교환을 관리하는 통신 표준을 설정한다.
