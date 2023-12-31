@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/async io.md",
+                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bb7c0a02e73baf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB_note/HTTP/TCP  IP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/async io.md",
+                "file": "WEB_note/HTTP/TCP  IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/async io.md",
+                "file": "WEB_note/HTTP/TCP  IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/async io.md"
+                "file": "WEB_note/HTTP/TCP  IP.md"
               }
             }
           },
@@ -171,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python/async io.md",
+                "file": "WEB_note/HTTP/TCP  IP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,10 +246,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f1861c6fec909ff6",
+  "active": "2bb7c0a02e73baf1",
   "lastOpenFiles": [
-    "Python/ASGI, WSGI.md",
+    "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
+    "WEB_note/HTTP/TCP  IP.md",
+    "WEB_note/HTTP/HTTP 메시지.md",
     "Python/async io.md",
+    "Python/ASGI, WSGI.md",
     "Excalidraw.md",
     "Excalidraw/Drawing_2023-12-19 13.57.26.excalidraw.md",
     "42seoul/CPP_MODULE/CPP09/ex02 PmergeMe.md",
@@ -268,10 +283,7 @@
     "42seoul/Webserv/subject/webserv_subject.pdf",
     "무제 파일.canvas",
     "2023-12-03.md",
-    "42seoul/Webserv/kernel queue.md",
     "C++_note",
-    "에세이.md",
-    "workflow.md",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "image file/transaction.jpg",
     "image file/일반 헤더.jpeg",
