@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e4de20d9374d2388",
+        "id": "01acba613b2f37df",
         "type": "tabs",
         "children": [
           {
-            "id": "f1861c6fec909ff6",
+            "id": "a6daf5e7f87eddfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bb7c0a02e73baf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB_note/HTTP/TCP  IP.md",
+                "file": "Backend 엔지니어의 책임.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB_note/HTTP/TCP  IP.md",
+                "file": "Backend 엔지니어의 책임.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB_note/HTTP/TCP  IP.md",
+                "file": "Backend 엔지니어의 책임.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB_note/HTTP/TCP  IP.md"
+                "file": "Backend 엔지니어의 책임.md"
               }
             }
           },
@@ -183,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "WEB_note/HTTP/TCP  IP.md",
+                "file": "Backend 엔지니어의 책임.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,8 +233,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2bb7c0a02e73baf1",
+  "active": "a6daf5e7f87eddfd",
   "lastOpenFiles": [
+    "Backend 엔지니어의 책임.md",
     "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
     "WEB_note/HTTP/TCP  IP.md",
     "WEB_note/HTTP/HTTP 메시지.md",
@@ -282,7 +270,6 @@
     "42seoul/CPP_MODULE",
     "42seoul/Webserv/subject/webserv_subject.pdf",
     "무제 파일.canvas",
-    "2023-12-03.md",
     "C++_note",
     "42seoul/Webserv/subject/webserv_subject_ko.pdf",
     "image file/transaction.jpg",
