@@ -90,3 +90,5 @@ https://myportfolio.com/posts?tags=restapi
 	- 사용자 정의 헤더 제공 및 버전 번호를 속성으로 첨부하는 작업이 포함된다.
 4. 콘텐츠 협상을 통한 버전 관리
 	- 전체 REST API의 버전을 관리하는 대신 콘텐츠 협상 접근 방식을 사용하면 단일 리소스 표현의 버전을 관리할 수 있다.
+
+[RESTful API 캐싱 전략](https://masteringbackend.com/posts/caching-strategy-for-restful-api)
