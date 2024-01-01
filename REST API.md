@@ -30,3 +30,29 @@ GET /users
 - 클라이언트는 우리가 단지 한 명의 사용자가 아닌 사용자 모음 데이터를 다루고 있다는 것을 알 것이다.
 ### 오류 처리에 상태 코드 사용
 - 적잘한 오류 처리를 통해 앱을 더욱 강력하게 만들어 더 나은 사용자 경험을 제공하고 생산성도 향상시킬 수 있다.
+-  Informational : Communicates the state of the request. It ranges from 100-199.
+- Success : Communicate the Success of the request. It ranges from 200-299.
+- Redirection : Sends response about some additional action needed to complete a request. It ranges from 300-399.
+- Client Error : Sends error response that has to do with the client. It ranges from 400-499.
+- Server Error : Sends error response that has to do with the server. It ranges from 500-599.
+- 200 — OK
+- 404 — Not found
+- 500 — Internal Server Error
+- 201 — Created
+- 204 — No Content
+- 304 — Modified
+- 400 — Bad Request
+- 401 — Unauthorized
+- 403 — Forbidden
+- 501 — Not Implemented
+### 리소스 중첩 사용
+- 하위 리소스라고도 하는 이소스를 중첩하는 것은 엔드포인트 간의 계층적 관계를 유지하는 데 중요하며 다양한 엔드 포인트가 상호 연결되는 방식도 보여준다.
+- 예를 들어 Medium과 같은 사이트는 플랫폼에서 다양한 작가의 스토리를 허용하며 이 경우 유효한 중첩을 만드는 것과 같은 엔드 포인트를 갖는다.
+``` http
+https://medium.com/me/stories/public
+```
+``` http
+https://medium.com/posts/postId/comments
+```
+- 이는 가독성에 도움이 된다. 하지만 리소스 중첩을 3개 수준 이하로 제한하는 것도 모범 사례이다.
+### 필터링, 정렬 및 페이지
