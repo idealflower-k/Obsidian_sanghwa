@@ -55,4 +55,24 @@ https://medium.com/me/stories/public
 https://medium.com/posts/postId/comments
 ```
 - 이는 가독성에 도움이 된다. 하지만 리소스 중첩을 3개 수준 이하로 제한하는 것도 모범 사례이다.
-### 필터링, 정렬 및 페이지
+### 필터링, 정렬 및 페이지 매김을 사용하여 요청된 데이터 검색
+- API 엔드포인트가 사용자 목록 반환과 같이 많은 데이터를 반환하는 경우 필터, 정렬 및 페이지 매김을 사용하는 것이 좋다.
+- 이는 API 사용자가 전체 요청을 로드하는 대신 필요한 데이터를 검색하는 데 도움이 되며, 이로 인해 데이터베이스가 느려질 수 있다.
+``` http
+GET /users?sort_by=+email
+// and
+GET /users?sort_by=email
+
+https://myportfolio.com/posts?tags=restapi
+```
+### 보안을 위해 SSL 사용
+- 해커는 자동화된 스크립트를 사용하여 API 서버를 공격할 수 있다.
+- SSL (Secure Sockets Layer)
+- 인터넷 연결을 보호하고 클라이언트와 서버 간에 공유되는 민감한 데이터를 유지하는 데 사용되는 표준 기술로, 인터넷 해커가 전송된 정보를 읽거나 수정하는 것을 어렵게 만든다.
+- 초보자이거나 단일 도메인 SSL을 원하는 경우 몇 분 내에 발급될 수 있고 가장 높은 암호화를 제공하는 번거롭지 않은  [**domain validation certificate**](https://www.cheapsslshop.com/domain-validation-certificates) (DV SSL 인증서)가 필요하다.
+- 더욱 안전한 업데이트 버전을 원할 경우 SSL을 TLS(전송 계층 보안)로 업데이트할 수도 있다.
+### 잘 컴파일된 API 문서
+- REST API 디자인에서는 문서화가 중요하다.
+- 사용자에게 API 디자인을 쉽게 안내할 수 있을 만큼 강력해야 한다.
+- 문서에 포함되어야 하는 기타 관련 정보
+	- APi
