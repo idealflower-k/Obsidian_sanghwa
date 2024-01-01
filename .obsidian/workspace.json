@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa86c81d6dccac32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REST API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend 엔지니어의 책임.md",
+                "file": "REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend 엔지니어의 책임.md",
+                "file": "REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend 엔지니어의 책임.md"
+                "file": "REST API.md"
               }
             }
           },
@@ -170,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend 엔지니어의 책임.md",
+                "file": "REST API.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,10 +246,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6daf5e7f87eddfd",
+  "active": "aa86c81d6dccac32",
   "lastOpenFiles": [
-    "image file/Pasted image 20231231164753.png",
     "Backend 엔지니어의 책임.md",
+    "REST API.md",
+    "image file/Pasted image 20231231164753.png",
     "WEB_note/HTTP/HTTP (HyperText Transfer Protocol).md",
     "WEB_note/HTTP/TCP  IP.md",
     "WEB_note/HTTP/HTTP 메시지.md",
@@ -280,7 +294,6 @@
     "image file/서버 에러 상테 코드.jpeg",
     "image file/File (3).jpg",
     "image file/URI.jpg",
-    "image file/Specific Requirement.png",
-    "image file/Requirement Specification2.png"
+    "image file/Specific Requirement.png"
   ]
 }
