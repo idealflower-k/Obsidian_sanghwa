@@ -11,8 +11,12 @@
             "id": "c3a53ff4df8e78af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Python/ASGI, WSGI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/ASGI, WSGI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python/ASGI, WSGI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/ASGI, WSGI.md"
+              }
             }
           },
           {
@@ -168,6 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Python/ASGI, WSGI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,13 +227,13 @@
   },
   "active": "c3a53ff4df8e78af",
   "lastOpenFiles": [
+    "API Security.md",
+    "REST API.md",
+    "Backend 엔지니어의 책임.md",
     "image file/Pasted image 20231231164753.png",
     "WEB_note/HTTP/TCP  IP.md",
-    "REST API.md",
     "Python/async io.md",
     "Python/ASGI, WSGI.md",
-    "Backend 엔지니어의 책임.md",
-    "API Security.md",
     "42seoul/CPP_MODULE/CPP09/ex02 PmergeMe.md",
     "에세이.md",
     "Python/코딩도장/Unit 1 ~ ?.md",
@@ -263,7 +272,6 @@
     "image file/File (2).jpg",
     "image file/IMG_72C8021A7DD0-1.jpeg",
     "image file/IMG_01425F8208AE-1.jpeg",
-    "무제 파일.canvas",
-    "image file/Specific Requirement.png"
+    "무제 파일.canvas"
   ]
 }
