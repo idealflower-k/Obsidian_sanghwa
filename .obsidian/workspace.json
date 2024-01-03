@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae6e979571bf9dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "생일잔치.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -234,7 +248,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b329100d296a4bdf",
+  "active": "ae6e979571bf9dc8",
   "lastOpenFiles": [
     "생일잔치.md",
     "Python/ASGI, WSGI.md",
