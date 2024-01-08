@@ -230,8 +230,9 @@
   "active": "63db1e30d4ba1e4a",
   "lastOpenFiles": [
     "API/REST API.md",
-    "42seoul/Transcendence/장고 설치 및 설정.md",
+    "API/API Security.md",
     "42seoul/Transcendence/요구사항 정리.md",
+    "42seoul/Transcendence/장고 설치 및 설정.md",
     "42seoul/Transcendence/Work/Transcendence Backend.md",
     "42seoul/Transcendence/Work/백엔드 work.md",
     "WEB_note/CGI.md",
@@ -239,7 +240,6 @@
     "API",
     "42seoul/Transcendence/Work",
     "Backend/Backend 엔지니어의 책임.md",
-    "API/API Security.md",
     "42seoul/Transcendence",
     "무제 파일.md",
     "image file/Django_Project_Setup_and_Installations (1) 1.md",
