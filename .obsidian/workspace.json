@@ -8,6 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a96a0af4c2a566cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "백엔드 알아야 할 내용 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5c99eb9b45be06c6",
+        "type": "tabs",
+        "children": [
+          {
             "id": "090056feada395aa",
             "type": "leaf",
             "state": {
@@ -18,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a96a0af4c2a566cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -106,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "백엔드 알아야 할 내용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "백엔드 알아야 할 내용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 1.md"
+                "file": "백엔드 알아야 할 내용 정리.md"
               }
             }
           },
@@ -191,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "백엔드 알아야 할 내용 정리.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,9 +249,9 @@
   "active": "a96a0af4c2a566cd",
   "lastOpenFiles": [
     "Transcendence Backend.md",
-    "무제 파일 1.md",
-    "Django_Project_Setup_and_Installations.md",
+    "백엔드 알아야 할 내용 정리.md",
     "무제 파일.md",
+    "Django_Project_Setup_and_Installations.md",
     "image file/Django_Project_Setup_and_Installations (1) 1.md",
     "image file/Django_Project_Setup_and_Installations (1).md",
     "생일잔치.md",
