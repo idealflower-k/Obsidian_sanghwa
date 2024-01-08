@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26cbd8f45a19d281",
+        "id": "96e07e848b03ef05",
         "type": "tabs",
         "children": [
           {
-            "id": "a96a0af4c2a566cd",
+            "id": "ce6e2f93db10b65e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드 알아야 할 내용 정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5c99eb9b45be06c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "090056feada395aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcendence Backend.md",
+                "file": "42seoul/Transcendence/장고 설치 및 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -112,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "백엔드 알아야 할 내용 정리.md",
+                "file": "42seoul/Transcendence/장고 설치 및 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "백엔드 알아야 할 내용 정리.md",
+                "file": "42seoul/Transcendence/장고 설치 및 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "백엔드 알아야 할 내용 정리.md"
+                "file": "42seoul/Transcendence/장고 설치 및 설정.md"
               }
             }
           },
@@ -197,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "백엔드 알아야 할 내용 정리.md",
+                "file": "42seoul/Transcendence/장고 설치 및 설정.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,19 +227,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a96a0af4c2a566cd",
+  "active": "ce6e2f93db10b65e",
   "lastOpenFiles": [
-    "Transcendence Backend.md",
-    "백엔드 알아야 할 내용 정리.md",
+    "WEB_note/CGI.md",
+    "42seoul/Transcendence/장고 설치 및 설정.md",
+    "Backend",
+    "API",
+    "API/REST API.md",
+    "42seoul/Transcendence/Work",
+    "42seoul/Transcendence/Work/Transcendence Backend.md",
+    "Backend/Backend 엔지니어의 책임.md",
+    "API/API Security.md",
+    "42seoul/Transcendence/Work/백엔드 work.md",
+    "42seoul/Transcendence",
     "무제 파일.md",
-    "Django_Project_Setup_and_Installations.md",
     "image file/Django_Project_Setup_and_Installations (1) 1.md",
     "image file/Django_Project_Setup_and_Installations (1).md",
     "생일잔치.md",
     "Python/ASGI, WSGI.md",
-    "API Security.md",
-    "REST API.md",
-    "Backend 엔지니어의 책임.md",
     "image file/Pasted image 20231231164753.png",
     "WEB_note/HTTP/TCP  IP.md",
     "Python/async io.md",
@@ -278,13 +264,8 @@
     "Excalidraw",
     "Excalidraw.md",
     "Django/template 등록하는 방법.md",
-    "Django/raise, MiddleWare.md",
     "Django",
     "C++_note",
-    "42seoul/CPP_MODULE/CPP09",
-    "42seoul/CPP_MODULE",
-    "42seoul/Webserv/Client disconnect",
-    "JIRA",
     "image file/스크린샷 2023-09-20 22.49.30.png",
     "image file/요청 정보 헤더.jpeg",
     "image file/일반 헤더.jpeg",
