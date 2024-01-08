@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3b280638767261df",
+        "id": "451fe22a53b3e60d",
         "type": "tabs",
         "children": [
           {
-            "id": "d29c0920751f1fbf",
+            "id": "63db1e30d4ba1e4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42seoul/Transcendence/요구사항 정리.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Transcendence/요구사항 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Transcendence/요구사항 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "42seoul/Transcendence/요구사항 정리.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,7 +170,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Transcendence/요구사항 정리.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +218,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d29c0920751f1fbf",
+  "active": "63db1e30d4ba1e4a",
   "lastOpenFiles": [
     "42seoul/Transcendence/장고 설치 및 설정.md",
     "42seoul/Transcendence/요구사항 정리.md",
