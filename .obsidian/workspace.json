@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29fc4ee3658195e3",
+        "id": "26cbd8f45a19d281",
         "type": "tabs",
         "children": [
           {
-            "id": "cdd63512e3d095b6",
+            "id": "090056feada395aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ea686e2e2a04e297",
+            "id": "a96a0af4c2a566cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django_Project_Setup_and_Installations.md",
+                "file": "무제 파일 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django_Project_Setup_and_Installations.md",
+                "file": "무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django_Project_Setup_and_Installations.md",
+                "file": "무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django_Project_Setup_and_Installations.md"
+                "file": "무제 파일 1.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Django_Project_Setup_and_Installations.md",
+                "file": "무제 파일 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,13 +240,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ea686e2e2a04e297",
+  "active": "a96a0af4c2a566cd",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "Transcendence Backend.md",
+    "무제 파일 1.md",
     "Django_Project_Setup_and_Installations.md",
+    "무제 파일.md",
     "image file/Django_Project_Setup_and_Installations (1) 1.md",
     "image file/Django_Project_Setup_and_Installations (1).md",
-    "Transcendence Backend.md",
     "생일잔치.md",
     "Python/ASGI, WSGI.md",
     "API Security.md",
@@ -272,7 +273,6 @@
     "Excalidraw.md",
     "Django/template 등록하는 방법.md",
     "Django/raise, MiddleWare.md",
-    "Django/Django 프로젝트 생성 with docker, postgresql.md",
     "Django",
     "C++_note",
     "42seoul/CPP_MODULE/CPP09",
