@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42seoul/Transcendence/장고 설치 및 설정.md",
+                "file": "42seoul/Transcendence/Work/Transcendence Backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42seoul/Transcendence/장고 설치 및 설정.md",
+                "file": "42seoul/Transcendence/Work/Transcendence Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42seoul/Transcendence/장고 설치 및 설정.md",
+                "file": "42seoul/Transcendence/Work/Transcendence Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42seoul/Transcendence/장고 설치 및 설정.md"
+                "file": "42seoul/Transcendence/Work/Transcendence Backend.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "42seoul/Transcendence/장고 설치 및 설정.md",
+                "file": "42seoul/Transcendence/Work/Transcendence Backend.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,8 +230,9 @@
   },
   "active": "ce6e2f93db10b65e",
   "lastOpenFiles": [
-    "WEB_note/CGI.md",
+    "42seoul/Transcendence/Work/백엔드 work.md",
     "42seoul/Transcendence/장고 설치 및 설정.md",
+    "WEB_note/CGI.md",
     "Backend",
     "API",
     "API/REST API.md",
@@ -239,7 +240,6 @@
     "42seoul/Transcendence/Work/Transcendence Backend.md",
     "Backend/Backend 엔지니어의 책임.md",
     "API/API Security.md",
-    "42seoul/Transcendence/Work/백엔드 work.md",
     "42seoul/Transcendence",
     "무제 파일.md",
     "image file/Django_Project_Setup_and_Installations (1) 1.md",
