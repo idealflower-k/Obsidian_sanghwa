@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea686e2e2a04e297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django_Project_Setup_and_Installations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendence Backend.md",
+                "file": "Django_Project_Setup_and_Installations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transcendence Backend.md",
+                "file": "Django_Project_Setup_and_Installations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transcendence Backend.md"
+                "file": "Django_Project_Setup_and_Installations.md"
               }
             }
           },
@@ -179,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Transcendence Backend.md",
+                "file": "Django_Project_Setup_and_Installations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,8 +240,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cdd63512e3d095b6",
+  "active": "ea686e2e2a04e297",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "Django_Project_Setup_and_Installations.md",
+    "image file/Django_Project_Setup_and_Installations (1) 1.md",
+    "image file/Django_Project_Setup_and_Installations (1).md",
     "Transcendence Backend.md",
     "생일잔치.md",
     "Python/ASGI, WSGI.md",
@@ -257,11 +273,7 @@
     "Django/template 등록하는 방법.md",
     "Django/raise, MiddleWare.md",
     "Django/Django 프로젝트 생성 with docker, postgresql.md",
-    "Django/Django 소개, 작동 방식.md",
     "Django",
-    "C++_note/template.md",
-    "C++_note/reinterpret_cast.md",
-    "C++_note/dynamic_cast.md",
     "C++_note",
     "42seoul/CPP_MODULE/CPP09",
     "42seoul/CPP_MODULE",
