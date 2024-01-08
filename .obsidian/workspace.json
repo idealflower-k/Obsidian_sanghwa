@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96e07e848b03ef05",
+        "id": "3b280638767261df",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6e2f93db10b65e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42seoul/Transcendence/장고 설치 및 설정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37ea7f1c28cf49ea",
+            "id": "d29c0920751f1fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ca79cc1a4670b78",
@@ -241,7 +227,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "37ea7f1c28cf49ea",
+  "active": "d29c0920751f1fbf",
   "lastOpenFiles": [
     "42seoul/Transcendence/장고 설치 및 설정.md",
     "42seoul/Transcendence/요구사항 정리.md",
